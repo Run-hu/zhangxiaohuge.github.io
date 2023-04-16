@@ -1,0 +1,15 @@
+http://xiaohuge.icu/sitemap/index.html
+http://xiaohuge.icu/404/index.html
+http://xiaohuge.icu/post/2023-04-12-hello-world/
+http://xiaohuge.icu/post/2023-04-16-Next%E6%96%B0%E5%BE%81%E9%80%94/
+http://xiaohuge.icu/link/index.html
+http://xiaohuge.icu/categories/index.html
+http://xiaohuge.icu/Docs/index.html
+http://xiaohuge.icu/archives/index.html
+http://xiaohuge.icu/tags/index.html
+http://xiaohuge.icu/
+http://xiaohuge.icu/tags/%E5%8D%9A%E5%AE%A2/
+http://xiaohuge.icu/tags/%E5%B9%BC%E7%A8%9A/
+http://xiaohuge.icu/tags/%E5%9F%BA%E7%A1%80%E6%96%87%E4%BB%B6/
+http://xiaohuge.icu/tags/%E6%88%90%E7%AB%8B%E7%AF%87/
+http://xiaohuge.icu/categories/%E6%88%90%E7%AB%8B%E7%AF%87/
