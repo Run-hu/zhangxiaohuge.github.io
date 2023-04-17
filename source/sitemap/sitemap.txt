@@ -1,3 +1,4 @@
+http://xiaohuge.icu/post/2023-04-17-%E4%BC%98%E8%B4%A8%E5%85%AC%E4%BC%97%E5%8F%B7/
 http://xiaohuge.icu/post/2023-04-16-%E7%AC%AC%E4%BA%8C%E5%A4%A9/
 http://xiaohuge.icu/post/2023-04-17-Md%E5%9F%BA%E6%9C%AC%E6%A0%BC%E5%BC%8F/
 http://xiaohuge.icu/post/2023-04-12-hello-world/
@@ -19,5 +20,7 @@ http://xiaohuge.icu/tags/Typora/
 http://xiaohuge.icu/tags/%E5%8D%9A%E5%AE%A2/
 http://xiaohuge.icu/tags/%E5%B9%BC%E7%A8%9A/
 http://xiaohuge.icu/tags/%E5%9F%BA%E7%A1%80%E6%96%87%E4%BB%B6/
+http://xiaohuge.icu/tags/%E5%85%AC%E4%BC%97%E5%8F%B7/
 http://xiaohuge.icu/categories/%E6%93%8D%E4%BD%9C%E7%AF%87/
 http://xiaohuge.icu/categories/%E6%88%90%E7%AB%8B%E7%AF%87/
+http://xiaohuge.icu/categories/%E5%BE%AE%E4%BF%A1%E7%BC%96/
