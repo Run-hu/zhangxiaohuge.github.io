@@ -18,6 +18,7 @@
     <title>Md基础+Typora基础</title>
     <url>/post/2023-04-17-Md%E5%9F%BA%E6%9C%AC%E6%A0%BC%E5%BC%8F/</url>
     <content><![CDATA[<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">此段用以学习Markdown的基本格式</span><br></pre></td></tr></table></figure>
+<p> $ hexo new “My New Post”$ hexo generate$ hexo deploybash</p>
 <ol>
 <li><del>删除</del><br>  <code>~~text~~</code></li>
 <li><mark>黄色强调</mark><br>  <code>&lt;mark&gt;text&lt;/mark&gt;</code></li>
@@ -112,7 +113,10 @@
 <li>添加评论系统</li>
 <li>添加搜索系统</li>
 <li>添加聊天系统</li>
-<li>添加网页动画</li>
+<li>添加网页动画、加载特效、飘带装饰</li>
+<li>添加网页智能</li>
+<li>修改归档网页、网页赞赏文字</li>
+<li>增加自定义文件</li>
 </ol>
 <h4 id="今日失败"><a href="#今日失败" class="headerlink" title="今日失败:"></a><strong><em>今日失败</em>:</strong></h4><ul>
 <li><p>标签代码块无法实时预览</p>
@@ -134,6 +138,8 @@
 <li><p>一份大碗辣椒炒肉粉，继续肝</p>
 </li>
 <li><p>太酷了，自定义的动画</p>
+</li>
+<li><p>19:15:47 今天就到这里，虽说这也是第三次建立博客，但是还是会发现很多细节可以处理的更细致，去跑步啦，明天继续加油！</p>
 </li>
 </ul>
 <h4 id="更新内容："><a href="#更新内容：" class="headerlink" title="更新内容："></a>更新内容：</h4><ol>
