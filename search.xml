@@ -279,13 +279,12 @@ pie
   <entry>
     <title>优质公众号</title>
     <url>/post/2023-04-17-%E4%BC%98%E8%B4%A8%E5%85%AC%E4%BC%97%E5%8F%B7/</url>
-    <content><![CDATA[<p>突然发现早早回家，闲下来没啥事干，看了会最近的电视电影，平平无奇，那就把明天的任务提前一下！</p>
-<p>今天主要处理的是公众号的筛选，那些优质的公众号往往隐藏的很深，内容丰富却很短小，利用起来可以充实很多的碎片时间。下面目前已经经一轮整理的目录。（本次只是本人为了填补日常小时间做的粗略整理，以删减为主，金子要时间才能看出价值，这些公众号经过一次次的整理还能留下的，每一个都是“扛把子”，也会分别出花时间去“考古”，今天先大致出一个框架，明天继续）</p>
+    <content><![CDATA[<p>突然闲下来，回到家中，也不知道做点什么。稍微整理下下好久没动的公众号。</p>
+<p>这次主要处理的是公众号的筛选，那些优质的公众号往往隐藏的很深，内容丰富却很短小，利用起来可以充实很多的碎片时间。下面目前已经经一轮整理的目录。（本次只是本人为了填补日常小时间做的粗略整理，以删减为主，金子要时间才能看出价值，这些公众号经过一次次的整理还能留下的，每一个都是“扛把子”，也会分别出花时间去“考古”，今天先大致出一个框架，明天继续）</p>
 <span id="more"></span>
 
-<h5 id="公众号目录："><a href="#公众号目录：" class="headerlink" title="公众号目录："></a>公众号目录：</h5><div class="note info"><p>资源类公众号</p>
-</div>
-
+<h5 id="公众号目录："><a href="#公众号目录：" class="headerlink" title="公众号目录："></a>公众号目录：</h5><details class="note info"><summary><p>资源类公众号</p>
+</summary>
 <ol>
 <li>阿刚同学<ul>
 <li>附带网站：<a href="https://pan.isharepc.com/">网盘中心</a>，发展中，网站需要通过赞赏或者投稿才能获得邀请码</li>
@@ -366,9 +365,11 @@ pie
 </ul>
 </li>
 </ol>
-<div class="note primary"><p>文章类公众号</p>
-</div>
 
+</details>
+
+<details class="note primary"><summary><p>文章类公众号</p>
+</summary>
 <ol>
 <li>不颓废青年<ul>
 <li>附带网站：<a href=""></a></li>
@@ -407,9 +408,11 @@ pie
 </ul>
 </li>
 </ol>
-<div class="note danger"><p>资讯类公众号</p>
-</div>
 
+</details>
+
+<details class="note danger"><summary><p>资讯类公众号</p>
+</summary>
 <ol>
 <li>澎湃新闻<ul>
 <li>附带网站：<a href=""></a></li>
@@ -442,9 +445,11 @@ pie
 </ul>
 </li>
 </ol>
-<div class="note success"><p>个人提升类公众号</p>
-</div>
 
+</details>
+
+<details class="note success"><summary><p>个人提升类公众号</p>
+</summary>
 <ol>
 <li>菜鸟学Python<ul>
 <li>附带网站：<a href=""></a></li>
@@ -483,9 +488,11 @@ pie
 </ul>
 </li>
 </ol>
-<div class="note default"><p>自媒体类公众号</p>
-</div>
 
+</details>
+
+<details class="note default"><summary><p>自媒体类公众号</p>
+</summary>
 <ol>
 <li>飞瓜轻数<ul>
 <li>附带网站：<a href=""></a></li>
@@ -554,8 +561,11 @@ pie
 </ul>
 </li>
 </ol>
-<div class="note "><p>其他必备公众号</p>
-</div>
+
+</details>
+
+<details class="note warning"><summary><p>其他必备公众号</p>
+</summary>
 <ol>
 <li>趣乐兔</li>
 <li>唐小舟全集</li>
@@ -574,7 +584,8 @@ pie
 <li>新片场</li>
 <li>致终身学习者</li>
 </ol>
-]]></content>
+
+</details>]]></content>
       <categories>
         <category>微信编</category>
       </categories>
