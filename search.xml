@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>Hexo的基础</title>
+    <url>/post/2023-04-12-hello-world/</url>
+    <content><![CDATA[<p>关于Hexo的一些基础操作</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br><span class="line">$ hexo generate</span><br><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+]]></content>
+      <categories>
+        <category>成立篇</category>
+      </categories>
+      <tags>
+        <tag>基础文件</tag>
+        <tag>成立</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Md基础+Typora基础</title>
+    <url>/post/2023-04-17-Md%E5%9F%BA%E6%9C%AC%E6%A0%BC%E5%BC%8F/</url>
+    <content><![CDATA[<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">此段用以学习Markdown的基本格式</span><br></pre></td></tr></table></figure>
+<ol>
+<li><del>删除</del><br>  <code>~~text~~</code></li>
+<li><mark>黄色强调</mark><br>  <code>&lt;mark&gt;text&lt;/mark&gt;</code></li>
+<li>表格<br>| 1    | a    |</li>
+</ol>
+<p>| -| -|<br>| 2    | b    |<br>| 3    | c    |</p>
+<p>​     </p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">此段用以学习Typora的基础操作</span><br></pre></td></tr></table></figure>
+
+<ol>
+<li><code>ctrl</code>+<code>B</code><strong>加粗</strong></li>
+<li><code>ctrl</code>+<code>U</code><u>下斜线</u></li>
+<li><code>ctrl</code>+<code>I</code><em>斜体</em></li>
+<li><code>ctrl</code>+<code>shift</code>+<code>~</code> <code>代码块</code></li>
+</ol>
+]]></content>
+      <categories>
+        <category>操作篇</category>
+      </categories>
+      <tags>
+        <tag>成立</tag>
+        <tag>Markdown</tag>
+        <tag>Typora</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>建设の第一天</title>
+    <url>/post/2023-04-16-%E7%AC%AC%E4%B8%80%E5%A4%A9/</url>
+    <content><![CDATA[<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">第一天</span><br></pre></td></tr></table></figure>
+<span id="more"></span>
+
+<p><em><strong>今日更新：</strong></em></p>
+<ol>
+<li>域名解析，绑定Hexo和github</li>
+<li>更新Next主题至最新版本 8.15.1</li>
+<li>设置暗黑模式-可手控</li>
+<li>设计简单favicon</li>
+<li>添加腾讯公益404页面</li>
+<li>更改目录与添加子目录</li>
+<li>验证必应站点地图</li>
+<li>增加社交图标</li>
+<li>增加github横幅</li>
+<li>增加手动书签</li>
+<li>修改侧边栏：徽章、头像</li>
+<li>增加打赏和关注</li>
+<li>修改页脚的图标、时间</li>
+</ol>
+<p><strong><em>今日失败</em>:</strong></p>
+<ul>
+<li>语言转换器</li>
+<li>滚动条</li>
+<li>相关文章</li>
+</ul>
+<p>Markdown的格式明天要抓紧学起来，就会个加粗斜线好丢人。</p>
+<p><strong>记录一下新的阶段的作息：</strong><br>时间					内容					备注<br>5：00-5：10	洗漱煮蛋泡咖啡	提前晚上准备好<br>5：10-5：20	明确任务 ，复盘昨天	空腹黑咖啡<br>5：20-6：00	南北校	拉伸<br>6：00-7：50		<br>7：50-8：20	路上	装水准备<br>8：20-12：00	剪辑学习	<br>12：00-12：30	午休	<br>12:30-13:30	阅读	心理学<br>13:30-17:30	剪辑学习&#x2F;网站搭建	<br>17:30-18:00	跑步	2公里（快）+其他运动<br>18:00-21:30	剪辑学习&#x2F;视频发布	<br>21:30-22：00	日常任务	<br>22:00-22:30	路上+洗漱	<br>22:30-24:00	复盘+其他活动	<br>24:00-1:00	自由安排学习	</p>
+<p><strong>2023年4月16日</strong></p>
+<p>57:32	五公里	轻微拉伸+三人早安	onenote模版<br>6:12:43	李跳跳自动删除信息		<br>6:45:42	打卡众裁日常完成	神游躺了一下	知乎回答问题1<br>7:10:22	网站开始！		<br>8:49:55	博客	馄饨	<br>19:12:32	结束</p>
+<p>​		<br>​			</p>
+]]></content>
+      <categories>
+        <category>成立篇</category>
+      </categories>
+      <tags>
+        <tag>博客</tag>
+        <tag>幼稚</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Next新征途</title>
+    <url>/post/2023-04-16-Next%E6%96%B0%E5%BE%81%E9%80%94/</url>
+    <content><![CDATA[<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">再次出发！</span><br></pre></td></tr></table></figure>
+<span id="more"></span>
+<p>一直都羡慕那些大佬，拥有一个属于自己的网站，可以在里面分享自己的五彩斑斓的生活，可以在这里遇到更多有趣的灵魂。今天便从想跨越到做！</p>
+<p><img data-src="https://s2.loli.net/2023/04/16/WJenoGHjwb4XutC.jpg" alt="08.jpg"></p>
+]]></content>
+      <categories>
+        <category>成立篇</category>
+      </categories>
+      <tags>
+        <tag>博客</tag>
+        <tag>幼稚</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>建设の第二天</title>
+    <url>/post/2023-04-16-%E7%AC%AC%E4%BA%8C%E5%A4%A9/</url>
+    <content><![CDATA[<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">第二天</span><br></pre></td></tr></table></figure>
+<span id="more"></span>
+
+<h4 id="今日更新："><a href="#今日更新：" class="headerlink" title="今日更新："></a><em><strong>今日更新：</strong></em></h4><ol>
+<li>添加学习各种标签</li>
+<li>添加评论系统</li>
+<li>添加搜索系统</li>
+</ol>
+<h4 id="今日失败"><a href="#今日失败" class="headerlink" title="今日失败:"></a><strong><em>今日失败</em>:</strong></h4><ul>
+<li><p>标签代码块无法实时预览</p>
+</li>
+<li><p>algolia搜索无法显示搜索内容（以下为提示，估计为版本问题），最后还是选择了local search，中途还遇到了报错，找了半天，最后发现是algolia在搞，关了它还不行，所以现在两个同时开着</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">node:internal/process/promises:288</span><br><span class="line">            triggerUncaughtException(err, true /* fromPromise */);</span><br><span class="line">            ^</span><br><span class="line">[OperationalError: ENOENT: no such file or directory, open &#x27;D:\huge\db.json&#x27;] &#123;</span><br><span class="line">  cause: [Error: ENOENT: no such file or directory, open &#x27;D:\huge\db.json&#x27;] &#123;</span><br><span class="line">    errno: -4058,</span><br><span class="line">    code: &#x27;ENOENT&#x27;,</span><br><span class="line">    syscall: &#x27;open&#x27;,</span><br><span class="line">    path: &#x27;D:\\huge\\db.json&#x27;</span><br><span class="line">  &#125;,</span><br><span class="line">  isOperational: true,</span><br><span class="line">  errno: -4058,</span><br><span class="line">  code: &#x27;ENOENT&#x27;,</span><br><span class="line">  syscall: &#x27;open&#x27;,</span><br><span class="line">  path: &#x27;D:\\huge\\db.json&#x27;</span><br><span class="line">&#125;</span><br><span class="line"></span><br></pre></td></tr></table></figure></li>
+</ul>
+<h4 id="今日日志"><a href="#今日日志" class="headerlink" title="今日日志:"></a><strong><em>今日日志</em>:</strong></h4><ul>
+<li><p>一开始以为是typora的预览问题，还去问度娘；就算是卸载了下载最新的仍然无法预览，另外尝试了all in one的vscode也是只能预览基本格式的代码，那么就是代码本身的问题，但是网页端又可以，那就很尴尬了，万一我哪天写错了，还得去网页端才可以发现，希望typora可以支持更多代码块的实时预览吧。不过，中途发现了typora1.59的更新，用起来还是巴适得很！（我峰哥数码荔枝直接买下）</p>
+</li>
+<li><p>视频的上传在github和gitee都无法成功，目前可行的播放：本地播放\clipchamp</p>
+</li>
+<li><p>图标</p>
+<ol>
+<li>第一个text为按钮内容，第二个为点击悬浮提示文字</li>
+<li>熟悉font awesome的图标名称</li>
+</ol>
+</li>
+<li><p>一份大碗辣椒炒肉粉，继续肝</p>
+</li>
+</ul>
+<h4 id="更新内容："><a href="#更新内容：" class="headerlink" title="更新内容："></a>更新内容：</h4><ol>
+<li><h5 id="标签块"><a href="#标签块" class="headerlink" title="标签块"></a>标签块</h5><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&#123;% note [class] text%&#125;</span><br><span class="line">context</span><br><span class="line">&#123;% endnote %&#125; </span><br><span class="line">class:default/primary/success/info/ warning/danger</span><br></pre></td></tr></table></figure></li>
+</ol>
+<details class="note "><summary><p>灰色</p>
+</summary>
+<p>默認 提示塊標籤</p>
+
+</details>
+
+<div class="note default"><p>default  黑色 提示塊標籤</p>
+</div>
+
+<details class="note primary"><summary><p>紫色</p>
+</summary>
+<p>primary 提示塊標籤</p>
+
+</details>
+
+<details class="note success"><summary><p>绿色</p>
+</summary>
+<p>success 提示塊標籤</p>
+
+</details>
+
+<details class="note info"><summary><p>蓝色</p>
+</summary>
+<p>info 提示塊標籤</p>
+
+</details>
+
+<details class="note warning"><summary><p>橙黄</p>
+</summary>
+<p>warning 提示塊標籤</p>
+
+</details>
+
+<div class="note danger"><p>danger 提示塊標籤</p>
+</div>
+
+<ol start="2">
+<li><h5 id="按钮"><a href="#按钮" class="headerlink" title="按钮"></a>按钮</h5><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">文本按钮：&#123; % btn url, text, icon[class], [tittle] % &#125;</span><br><span class="line">图标按钮：&#123; % btn url, icon fa-1g/fa-nx %&#125;</span><br><span class="line">合并: &#123; % btn url, text,icon,tittle&#125;</span><br></pre></td></tr></table></figure>
+
+<a class="btn" href="#">返回此页</a>
+
+<a class="btn" href="#"><i class="fa fa-home"></i>返回此页</a>
+
+<a class="btn" href="#"><i class="fa fa-home fa-fw fa-2x"></i>返回此页</a>
+
+放在文本的按钮<a class="btn" href="#" title="title"><i class="fa fa-home fa-fw fa-1x"></i>返回此页</a>上面是按钮</li>
+</ol>
+<div class="text-center"><a class="btn" href="#">返回此页</a><a class="btn" href="#"><i class="fa fa-home"></i>返回此页</a></div>
+   鼠标放我身上<a class="btn" href="https://github.com" title="Hello！点击可进入Github"><i class="fab fa-github"></i>Github</a>但是不要点我
+
+
+<ol start="3">
+<li><h5 id="链接"><a href="#链接" class="headerlink" title="链接"></a>链接</h5><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">[next](url)</span><br></pre></td></tr></table></figure>
+
+<div class="note info"><p><a href="#">返回此页的链接</a></p>
+</div>
+</li>
+<li><h4 id="居中"><a href="#居中" class="headerlink" title="居中"></a>居中</h4><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&#123;% cq %&#125;next&#123;% endcq %&#125;</span><br></pre></td></tr></table></figure>
+
+<blockquote class="blockquote-center">
+<p>居中</p>
+
+</blockquote> </li>
+<li><h4 id="视频"><a href="#视频" class="headerlink" title="视频"></a>视频</h4></li>
+</ol>
+  <figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&#123;% video url %&#125; </span><br></pre></td></tr></table></figure>
+
+   <video src="/images/无标题视频.mp4" preload="metadata" controlslist="nodownload" controls playsinline poster=""></video>
+   <div style="position:relative;width:fit-content;height:fit-content;">
+            <a style="position:absolute;top:20px;right:1rem;opacity:0.8;" href="https://clipchamp.com/watch/Wx0lxgmsxi8?utm_source=embed&utm_medium=embed&utm_campaign=watch">
+                <img style="height:22px;" data-src="https://clipchamp.com/e.svg" alt="Made with Clipchamp" />
+            </a>
+            <iframe allow="autoplay;" allowfullscreen style="border:none" src="https://clipchamp.com/watch/Wx0lxgmsxi8/embed" width="640" height="360"></iframe>
+        </div>
+
+<ol start="6">
+<li><h4 id="图组"><a href="#图组" class="headerlink" title="图组"></a>图组</h4></li>
+</ol>
+  <figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&#123;% gp num-style %&#125;</span><br></pre></td></tr></table></figure>
+<div class="group-picture"><div class="group-picture-row"><div class="group-picture-column"><img data-src="https://s2.loli.net/2023/04/17/82jkmxyWiYfuL1d.png" alt="3336008 01.png"></div><div class="group-picture-column"><img data-src="https://s2.loli.net/2023/04/17/82jkmxyWiYfuL1d.png" alt="3336008 01.png"></div></div><div class="group-picture-row"><div class="group-picture-column"><img data-src="https://s2.loli.net/2023/04/17/82jkmxyWiYfuL1d.png" alt="3336008 01.png"></div><div class="group-picture-column"><img data-src="https://s2.loli.net/2023/04/17/82jkmxyWiYfuL1d.png" alt="3336008 01.png"></div></div></div>
+<p>图组style：<br><img data-src="https://s2.loli.net/2023/04/17/5tW2pVvwFfNYb4e.png" alt="17日12点02.png"><br>7. #### 标签</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&#123;% label [class]@text %&#125;</span><br><span class="line">class:default/primary/success/info/warning/danger</span><br></pre></td></tr></table></figure>
+
+<mark class="label ">yellow</mark><mark class="label primary">purple</mark><mark class="label success">green</mark><mark class="label info">blue</mark><mark class="label warning">yellowish</mark>
+<p><del><mark class="label danger">pink</mark></del><br><mark>yellow</mark><br>8. #### 链接网络</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&#123;% lg &#123;%&#125;</span><br><span class="line">标题|链接|副标题|图标</span><br><span class="line">&#123;% endlg %&#125;</span><br></pre></td></tr></table></figure>
+<div class="link-grid"><div class="link-grid-container">
+<object class="link-grid-image" data="https://s2.loli.net/2023/04/17/82jkmxyWiYfuL1d.png"></object>
+<p>image</p><p>测试图片</p>
+<a href="https://baidu.com"></a>
+</div><div class="link-grid-container">
+<object class="link-grid-image" data="https://s2.loli.net/2023/04/17/H4n3M9Fgew6QiSG.png"></object>
+<p>Bilibili</p><p>一个综合视频平台</p>
+<a href="https://bilibili.com"></a>
+</div></div>
+
+<ol start="9">
+<li><h5 id="Mermaid（各种表格）—有待研究"><a href="#Mermaid（各种表格）—有待研究" class="headerlink" title="Mermaid（各种表格）—有待研究"></a>Mermaid（各种表格）—有待研究</h5><pre class="mermaid">
+pie
+&quot;开心&quot; : 120
+&quot;幸福&quot; : 120
+&quot;满足&quot; : 120
+</pre>
+</li>
+<li><h5 id="PDF"><a href="#PDF" class="headerlink" title="PDF"></a>PDF</h5></li>
+</ol>
+   <figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&#123;% pdf url npx %&#125;</span><br></pre></td></tr></table></figure>
+
+<div class="pdf-container" data-target="https://www.yuque.com/xiaohu-6tbyp/drfd1p/zvgvv6ziql8gwexk" data-height="280px"></div>
+<ol start="11">
+<li><h5 id="选项表"><a href="#选项表" class="headerlink" title="选项表"></a>选项表</h5><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&#123;% tabs Unique name, [index] %&#125;</span><br><span class="line">&lt;!-- tab [Tab caption] [@icon] --&gt;</span><br><span class="line">Any content (support inline tags too).</span><br><span class="line">&lt;!-- endtab --&gt;</span><br><span class="line">&#123;% endtabs %&#125;</span><br></pre></td></tr></table></figure>
+<p><strong>记得英文name</strong></p>
+<a class="btn" href="#list-1"><i class="fa fa-dog"></i>选项一</a>
+<a class="btn" href="#list-3"><i class="fa fa-cat"></i>选项三</a>
+<p> <a href="#list-2">list 2</a></p>
+</li>
+</ol>
+<div class="tabs" id="list"><ul class="nav-tabs"><li class="tab active"><a href="#list-1">list 1</a></li><li class="tab"><a href="#list-2">list 2</a></li><li class="tab"><a href="#list-3">list 3</a></li></ul><div class="tab-content"><div class="tab-pane active" id="list-1"><p>这是清单1</p></div><div class="tab-pane" id="list-2"><p>我是清单2</p></div><div class="tab-pane" id="list-3"><p>这是清单3</p></div></div></div>
+
+<p>​    </p>
+<p>​    </p>
+]]></content>
+      <categories>
+        <category>成立篇</category>
+      </categories>
+      <tags>
+        <tag>Markdown</tag>
+        <tag>博客</tag>
+        <tag>幼稚</tag>
+      </tags>
+  </entry>
+</search>
