@@ -4,7 +4,7 @@
     <title>Markdown学习</title>
     <url>/post/2023-04-17-Md%E5%9F%BA%E6%9C%AC%E6%A0%BC%E5%BC%8F/</url>
     <content><![CDATA[<blockquote>
-<p>此文用以学习Markdown</p>
+<p>xxxxxxxxxx $ hexo new “My New Post”$ hexo generate$ hexo deploybash</p>
 </blockquote>
 <h1 id="1-标题"><a href="#1-标题" class="headerlink" title="1. 标题"></a>1. 标题</h1><p><code>#</code>代表标题格式，#越多即标题级别越小。目前Markdown共有六级标题，如下图所示（标题大小+对应快捷键）</p>
 <table>
@@ -107,7 +107,7 @@
 <tr>
 <td>链接(邮箱)</td>
 <td><code>[显示文本](链接网址)</code>&#x2F;<code>&lt;链接网址&gt;</code>&#x2F;<code>name@user.com</code></td>
-<td>这是<a href="http://xiaohuge.icu/">小沪的博客链接</a> <a href="http://xiaohuge.icu/">http://xiaohuge.icu</a>  <br />点击即可发送邮件<a href="mailto:&#x33;&#51;&#57;&#x30;&#52;&#54;&#x36;&#56;&#55;&#53;&#x40;&#113;&#x71;&#x2e;&#x63;&#111;&#109;">&#x33;&#51;&#57;&#x30;&#52;&#54;&#x36;&#56;&#55;&#53;&#x40;&#113;&#x71;&#x2e;&#x63;&#111;&#109;</a></td>
+<td>这是<a href="http://xiaohuge.icu/">小沪的博客链接</a> <a href="http://xiaohuge.icu/">http://xiaohuge.icu</a>  <br />点击即可发送邮件<a href="mailto:&#x33;&#51;&#x39;&#48;&#52;&#54;&#54;&#56;&#55;&#53;&#x40;&#113;&#113;&#46;&#99;&#111;&#109;">&#x33;&#51;&#x39;&#48;&#52;&#54;&#54;&#56;&#55;&#53;&#x40;&#113;&#113;&#46;&#99;&#111;&#109;</a></td>
 </tr>
 <tr>
 <td>图片</td>
@@ -164,7 +164,12 @@
 <pre class="line-numbers language-none"><code class="language-none">代码块<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre>
 <details class="note "><summary><p>进阶语法</p>
 </summary>
-<h1 id=""><a href="#" class="headerlink" title=""></a></h1><h1 id="8-标题"><a href="#8-标题" class="headerlink" title="8. 标题"></a>8. 标题</h1><table>
+<h1 id="8-表格"><a href="#8-表格" class="headerlink" title="8. 表格"></a>8. 表格</h1><p>使用方法：</p>
+<ol>
+<li><p>快捷键：<code>ctrl+</code></p>
+</li>
+<li><p><img data-src="https://s2.loli.net/2023/04/18/aAboMl8yvhGWps6.png" alt="第二种"></p>
+<table>
 <thead>
 <tr>
 <th>Title</th>
@@ -180,11 +185,14 @@
 <td>标题2</td>
 </tr>
 </tbody></table>
+</li>
+</ol>
 <h1 id="9-脚注"><a href="#9-脚注" class="headerlink" title="9. 脚注"></a>9. 脚注</h1><p>在想要添加脚注的后面输入<code>[^numeber/alphabet]</code>里面输入任意数字或者字母都可以<br>接着在文章末尾补充教主信息即可</p>
 
 </details>
 
-<h1 id="10-其他高级用法"><a href="#10-其他高级用法" class="headerlink" title="10. 其他高级用法"></a>10. 其他高级用法</h1><h2 id="任务列表："><a href="#任务列表：" class="headerlink" title="任务列表："></a>任务列表：</h2><ul>
+
+<h1 id="其他高级用法"><a href="#其他高级用法" class="headerlink" title="其他高级用法"></a>其他高级用法</h1><h2 id="任务列表："><a href="#任务列表：" class="headerlink" title="任务列表："></a>任务列表：</h2><ul>
 <li><p><input checked="" disabled="" type="checkbox"> 
 完成 <code>- [x]</code></p>
 </li>
@@ -267,79 +275,93 @@ $ hexo deploy<span aria-hidden="true" class="line-numbers-rows"><span></span><sp
 <h5 id="公众号目录："><a href="#公众号目录：" class="headerlink" title="公众号目录："></a>公众号目录：</h5><details class="note info"><summary><p>资源类公众号</p>
 </summary>
 <ol>
-<li>阿刚同学<ul>
+<li>阿刚同学</li>
+</ol>
+<ul>
 <li>附带网站：<a href="https://pan.isharepc.com/">网盘中心</a>，发展中，网站需要通过赞赏或者投稿才能获得邀请码</li>
 <li>推荐理由：</li>
 <li>更新频率：2篇&#x2F;周</li>
 </ul>
-</li>
-<li>阿虚同学<ul>
+<ol start="2">
+<li><p>阿虚同学</p>
+<ul>
 <li>附带网站：<a href="https://axutongxue.net/">阿虚同学的储物间</a>, 网站内容….大部分资源都有，</li>
 <li>推荐理由：</li>
 <li>更新频率：2篇&#x2F;周</li>
 </ul>
 </li>
-<li>技术松鼠<ul>
+<li><p>技术松鼠</p>
+<ul>
 <li>附带网站：<a href="https://www.jishusongshu.com/wordpress-site/slide-verification-captcha-plugin/">技术松鼠</a> wordpress网站，下属多个网站，有字体、云盘、导航、API等等</li>
 <li>推荐理由：</li>
 <li>更新频率： 2篇&#x2F;周</li>
 </ul>
 </li>
-<li>老牛黑科技<ul>
+<li><p>老牛黑科技</p>
+<ul>
 <li>附带网站：<a href=""></a></li>
 <li>推荐理由：</li>
 <li>更新频率： 篇&#x2F;周</li>
 </ul>
 </li>
-<li>扩展迷<ul>
+<li><p>扩展迷</p>
+<ul>
 <li>附带网站：<a href=""></a></li>
 <li>推荐理由：</li>
 <li>更新频率： 篇&#x2F;周</li>
 </ul>
 </li>
-<li>AZ菌<ul>
+<li><p>AZ菌</p>
+<ul>
 <li>附带网站：<a href=""></a></li>
 <li>推荐理由：</li>
 <li>更新频率： 篇&#x2F;周</li>
 </ul>
 </li>
-<li>胡萝卜周<ul>
+<li><p>胡萝卜周</p>
+<ul>
 <li>附带网站：<a href=""></a></li>
 <li>推荐理由：</li>
 <li>更新频率： 篇&#x2F;周</li>
 </ul>
 </li>
-<li>大明青年<ul>
+<li><p>大明青年</p>
+<ul>
 <li>附带网站：<a href=""></a></li>
 <li>推荐理由：</li>
 <li>更新频率： 篇&#x2F;周</li>
 </ul>
 </li>
-<li>锦技社<ul>
+<li><p>锦技社</p>
+<ul>
 <li>附带网站：<a href=""></a></li>
 <li>推荐理由：</li>
 <li>更新频率： 篇&#x2F;周</li>
 </ul>
 </li>
-<li>科技怪人<ul>
+<li><p>科技怪人</p>
+<ul>
 <li>附带网站：<a href=""></a></li>
 <li>推荐理由：</li>
 <li>更新频率： 篇&#x2F;周</li>
 </ul>
 </li>
-<li>神秘的热心网友<ul>
+<li><p>神秘的热心网友</p>
+<ul>
 <li>附带网站：<a href=""></a></li>
 <li>推荐理由：</li>
 <li>更新频率： 篇&#x2F;周</li>
 </ul>
 </li>
-<li>悦音科技<ul>
+<li><p>悦音科技</p>
+<ul>
 <li>附带网站：<a href=""></a></li>
 <li>推荐理由：</li>
 <li>更新频率： 篇&#x2F;周</li>
 </ul>
 </li>
-<li>神秘的热心网友<ul>
+<li><p>神秘的热心网友</p>
+<ul>
 <li>附带网站：<a href=""></a></li>
 <li>推荐理由：</li>
 <li>更新频率： 篇&#x2F;周</li>
@@ -828,6 +850,7 @@ Any content (support inline tags too).
 
 <h4 id="今日更新："><a href="#今日更新：" class="headerlink" title="今日更新："></a><em><strong>今日更新：</strong></em></h4><ol>
 <li>Markdown系统学习</li>
+<li>Typora主题更新</li>
 </ol>
 <h4 id="今日失败"><a href="#今日失败" class="headerlink" title="今日失败:"></a><strong><em>今日失败</em>:</strong></h4><p>- </p>
 <h4 id="今日日志"><a href="#今日日志" class="headerlink" title="今日日志:"></a><strong><em>今日日志</em>:</strong></h4><ul>
