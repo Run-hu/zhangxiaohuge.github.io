@@ -1726,30 +1726,6 @@ pre code {
   color: #999;
   font-size: 0.8125em;
 }
-.sidebar-post-related {
-  font-size: 0.8125em;
-  padding: 18px 0 0 0;
-}
-.popular-posts {
-  margin: 0;
-  padding: 1em 0;
-  text-align: left;
-}
-.popular-posts .popular-posts-item {
-  display: block;
-}
-.popular-posts .popular-posts-item .popular-posts-link {
-  border-bottom: 0;
-  display: block;
-  padding: 5px 20px;
-  transition: background 0.2s ease-in-out;
-}
-.popular-posts .popular-posts-item .popular-posts-link:hover {
-  background: var(--menu-item-bg-color);
-}
-.popular-posts .popular-posts-item .popular-posts-time {
-  color: #999;
-}
 .footer {
   color: #999;
   font-size: 0.875em;
@@ -3047,12 +3023,62 @@ header.header {
     padding: 10px 12px;
   }
 }
-.archive .collection-title {
-  display: !important;
+body {
+  background-color: #fdf9ee;
+  background-image: url("/images/1background.png");
+  background-attachment: fixed;
+  background-position: 50% 50%;
 }
-@media (max-width: 991px) {
-  .sidebar-toggle,
-  .sidebar {
-    display: none;
-  }
+body.darkmode--activated {
+  background-color: #282828;
+  background-image: url("/images/4background.png");
+  background-attachment: fixed;
+  background-position: 50% 50%;
+}
+.sidebar-inner {
+  border-top-left-radius: 30px;
+  border-bottom-left-radius: 30px;
+  border-top-right-radius: 30px;
+  border-bottom-right-radius: 30px;
+  color: rgba(57,99,166,0.8);
+}
+.header-inner {
+  border-top-left-radius: 30px;
+  border-bottom-left-radius: 30px;
+  border-top-right-radius: 30px;
+  border-bottom-right-radius: 30px;
+}
+.site-nav {
+  border-top-left-radius: 30px;
+  border-bottom-left-radius: 30px;
+  border-top-right-radius: 30px;
+  border-bottom-right-radius: 30px;
+}
+.footer {
+  color: rgba(255,255,255,0.733);
+}
+.site-brand-container {
+  color: rgba(59,129,179,0.914);
+}
+.post-block {
+  background: url("/images/2background.png");
+}
+.site-author-image {
+  border: 2px solid rgba(245,245,245,0.991);
+}
+.back-to-top {
+  border-top-left-radius: 10px;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  background: url("/images/3background.png");
+  margin: 2px;
+}
+.back-to-top span {
+  color: #3f7cc2;
+}
+.back-to-top.back-to-top-on {
+  opacity: 1;
+}
+.back-to-top.back-to-top-on:hover {
+  opacity: 0.5;
 }
