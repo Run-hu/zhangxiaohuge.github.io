@@ -4,7 +4,7 @@
     <title>Markdown学习</title>
     <url>/post/2023-04-17-Md%E5%9F%BA%E6%9C%AC%E6%A0%BC%E5%BC%8F/</url>
     <content><![CDATA[<blockquote>
-<p>xxxxxxxxxx $ hexo new “My New Post”$ hexo generate$ hexo deploybash</p>
+<p><strong>此文用以学习Markdown</strong></p>
 </blockquote>
 <h1 id="1-标题"><a href="#1-标题" class="headerlink" title="1. 标题"></a>1. 标题</h1><p><code>#</code>代表标题格式，#越多即标题级别越小。目前Markdown共有六级标题，如下图所示（标题大小+对应快捷键）</p>
 <table>
@@ -107,7 +107,7 @@
 <tr>
 <td>链接(邮箱)</td>
 <td><code>[显示文本](链接网址)</code>&#x2F;<code>&lt;链接网址&gt;</code>&#x2F;<code>name@user.com</code></td>
-<td>这是<a href="http://xiaohuge.icu/">小沪的博客链接</a> <a href="http://xiaohuge.icu/">http://xiaohuge.icu</a>  <br />点击即可发送邮件<a href="mailto:&#x33;&#51;&#x39;&#48;&#52;&#54;&#54;&#56;&#55;&#53;&#x40;&#113;&#113;&#46;&#99;&#111;&#109;">&#x33;&#51;&#x39;&#48;&#52;&#54;&#54;&#56;&#55;&#53;&#x40;&#113;&#113;&#46;&#99;&#111;&#109;</a></td>
+<td>这是<a href="http://xiaohuge.icu/">小沪的博客链接</a> <a href="http://xiaohuge.icu/">http://xiaohuge.icu</a>  <br />点击即可发送邮件<a href="mailto:&#x33;&#x33;&#57;&#x30;&#52;&#x36;&#54;&#x38;&#x37;&#x35;&#64;&#113;&#113;&#46;&#x63;&#111;&#109;">&#x33;&#x33;&#57;&#x30;&#52;&#x36;&#54;&#x38;&#x37;&#x35;&#64;&#113;&#113;&#46;&#x63;&#111;&#109;</a></td>
 </tr>
 <tr>
 <td>图片</td>
@@ -223,7 +223,6 @@
     <title>Next新征途</title>
     <url>/post/2023-04-16-Next%E6%96%B0%E5%BE%81%E9%80%94/</url>
     <content><![CDATA[<pre class="line-numbers language-none"><code class="language-none">再次出发！<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre>
-<p>xxxxxxxxxx $ hexo new “My New Post”$ hexo generate$ hexo deploybash</p>
 <p><img data-src="https://s2.loli.net/2023/04/16/WJenoGHjwb4XutC.jpg" alt="08.jpg"></p>
 ]]></content>
       <categories>
@@ -268,8 +267,9 @@ $ hexo deploy<span aria-hidden="true" class="line-numbers-rows"><span></span><sp
   <entry>
     <title>优质公众号</title>
     <url>/post/2023-04-17-%E4%BC%98%E8%B4%A8%E5%85%AC%E4%BC%97%E5%8F%B7/</url>
-    <content><![CDATA[<p>突然闲下来，回到家中，也不知道做点什么。稍微整理下下好久没动的公众号。</p>
+    <content><![CDATA[<p>2023年4月17日：突然闲下来，回到家中，也不知道做点什么。稍微整理下下好久没动的公众号。</p>
 <p>这次主要处理的是公众号的筛选，那些优质的公众号往往隐藏的很深，内容丰富却很短小，利用起来可以充实很多的碎片时间。下面目前已经经一轮整理的目录。（本次只是本人为了填补日常小时间做的粗略整理，以删减为主，金子要时间才能看出价值，这些公众号经过一次次的整理还能留下的，每一个都是“扛把子”，也会分别出花时间去“考古”，今天先大致出一个框架，明天继续）</p>
+<p>2023年4月18日：删除与微博重复的公众号和内容与现阶段不符的公众号</p>
 <span id="more"></span>
 
 <h5 id="公众号目录："><a href="#公众号目录：" class="headerlink" title="公众号目录："></a>公众号目录：</h5><details class="note info"><summary><p>资源类公众号</p>
@@ -598,6 +598,104 @@ $ hexo deploy<span aria-hidden="true" class="line-numbers-rows"><span></span><sp
       </tags>
   </entry>
   <entry>
+    <title>建站第五天</title>
+    <url>/post/2023-04-20-%E5%BB%BA%E7%AB%99%E7%AC%AC%E4%BA%94%E5%A4%A9/</url>
+    <content><![CDATA[<blockquote>
+<p>建站的第四天也要加油呀！</p>
+</blockquote>
+<span id="more"></span>
+
+<h4 id="今日更新："><a href="#今日更新：" class="headerlink" title="今日更新："></a><em><strong>今日更新：</strong></em></h4><table>
+<thead>
+<tr>
+<th></th>
+</tr>
+</thead>
+<tbody><tr>
+<td></td>
+</tr>
+<tr>
+<td></td>
+</tr>
+<tr>
+<td></td>
+</tr>
+<tr>
+<td></td>
+</tr>
+<tr>
+<td></td>
+</tr>
+<tr>
+<td></td>
+</tr>
+<tr>
+<td></td>
+</tr>
+</tbody></table>
+<h4 id="今日失败"><a href="#今日失败" class="headerlink" title="今日失败:"></a><strong><em>今日失败</em>:</strong></h4><p>- </p>
+<h4 id="今日日志"><a href="#今日日志" class="headerlink" title="今日日志:"></a><strong><em>今日日志</em>:</strong></h4><ul>
+<li>加油！从模仿一步步走出去！</li>
+</ul>
+]]></content>
+      <categories>
+        <category>成立篇</category>
+      </categories>
+      <tags>
+        <tag>博客</tag>
+        <tag>幼稚</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>建站第四天</title>
+    <url>/post/2023-04-19-%E5%BB%BA%E7%AB%99%E7%AC%AC%E5%9B%9B%E5%A4%A9/</url>
+    <content><![CDATA[<blockquote>
+<p>建站的第四天也要加油呀！</p>
+</blockquote>
+<span id="more"></span>
+
+<h4 id="今日更新："><a href="#今日更新：" class="headerlink" title="今日更新："></a><em><strong>今日更新：</strong></em></h4><table>
+<thead>
+<tr>
+<th>其他内容</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>小白羊最新版</td>
+</tr>
+<tr>
+<td>Office copilot</td>
+</tr>
+<tr>
+<td>百度网盘软件搬运到阿里</td>
+</tr>
+<tr>
+<td>更新下载分类从类型到下载渠道</td>
+</tr>
+<tr>
+<td>将阿里所有的文件全部转格式成exe</td>
+</tr>
+<tr>
+<td>C盘清理</td>
+</tr>
+<tr>
+<td>Office加载项</td>
+</tr>
+</tbody></table>
+<h4 id="今日失败"><a href="#今日失败" class="headerlink" title="今日失败:"></a><strong><em>今日失败</em>:</strong></h4><p>- </p>
+<h4 id="今日日志"><a href="#今日日志" class="headerlink" title="今日日志:"></a><strong><em>今日日志</em>:</strong></h4><ul>
+<li>博客今天还是没想好怎么继续完善…..郁闷</li>
+</ul>
+]]></content>
+      <categories>
+        <category>成立篇</category>
+      </categories>
+      <tags>
+        <tag>博客</tag>
+        <tag>幼稚</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>建设の第一天</title>
     <url>/post/2023-04-16-%E7%AC%AC%E4%B8%80%E5%A4%A9/</url>
     <content><![CDATA[<pre class="line-numbers language-none"><code class="language-none">第一天<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre>
@@ -851,6 +949,9 @@ Any content (support inline tags too).
 <h4 id="今日更新："><a href="#今日更新：" class="headerlink" title="今日更新："></a><em><strong>今日更新：</strong></em></h4><ol>
 <li>Markdown系统学习</li>
 <li>Typora主题更新</li>
+<li>B站签署版权授权书</li>
+<li>B站开启创作激励计划</li>
+<li>知乎B站发布更新文章</li>
 </ol>
 <h4 id="今日失败"><a href="#今日失败" class="headerlink" title="今日失败:"></a><strong><em>今日失败</em>:</strong></h4><p>- </p>
 <h4 id="今日日志"><a href="#今日日志" class="headerlink" title="今日日志:"></a><strong><em>今日日志</em>:</strong></h4><ul>
