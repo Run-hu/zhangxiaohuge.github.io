@@ -1,9 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>4-20</title>
+    <url>/post/2023-04-20-4-20/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css"><script src="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="https://cdn.jsdelivr.net/npm/meting/dist/Meting.min.js"></script><p>测试日记</p>
+<span id="more"></span>
+]]></content>
+      <categories>
+        <category>diary</category>
+      </categories>
+  </entry>
+  <entry>
     <title>Markdown学习</title>
     <url>/post/2023-04-17-Md%E5%9F%BA%E6%9C%AC%E6%A0%BC%E5%BC%8F/</url>
-    <content><![CDATA[<blockquote>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css"><script src="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="https://cdn.jsdelivr.net/npm/meting/dist/Meting.min.js"></script><blockquote>
 <p>xxxxxxxxxx $ hexo new “My New Post”$ hexo generate$ hexo deploybash</p>
 </blockquote>
 <h1 id="1-标题"><a href="#1-标题" class="headerlink" title="1. 标题"></a>1. 标题</h1><p><code>#</code>代表标题格式，#越多即标题级别越小。目前Markdown共有六级标题，如下图所示（标题大小+对应快捷键）</p>
@@ -107,7 +117,7 @@
 <tr>
 <td>链接(邮箱)</td>
 <td><code>[显示文本](链接网址)</code>&#x2F;<code>&lt;链接网址&gt;</code>&#x2F;<code>name@user.com</code></td>
-<td>这是<a href="http://xiaohuge.icu/">小沪的博客链接</a> <a href="http://xiaohuge.icu/">http://xiaohuge.icu</a>  <br />点击即可发送邮件<a href="mailto:&#x33;&#x33;&#x39;&#x30;&#52;&#x36;&#54;&#x38;&#x37;&#53;&#x40;&#x71;&#113;&#x2e;&#99;&#x6f;&#109;">&#x33;&#x33;&#x39;&#x30;&#52;&#x36;&#54;&#x38;&#x37;&#53;&#x40;&#x71;&#113;&#x2e;&#99;&#x6f;&#109;</a></td>
+<td>这是<a href="http://xiaohuge.icu/">小沪的博客链接</a> <a href="http://xiaohuge.icu/">http://xiaohuge.icu</a>  <br />点击即可发送邮件<a href="mailto:&#51;&#51;&#x39;&#48;&#x34;&#54;&#x36;&#x38;&#x37;&#53;&#x40;&#113;&#113;&#46;&#x63;&#111;&#109;">&#51;&#51;&#x39;&#48;&#x34;&#54;&#x36;&#x38;&#x37;&#53;&#x40;&#113;&#113;&#46;&#x63;&#111;&#109;</a></td>
 </tr>
 <tr>
 <td>图片</td>
@@ -220,23 +230,9 @@
       </tags>
   </entry>
   <entry>
-    <title>Next新征途</title>
-    <url>/post/2023-04-16-Next%E6%96%B0%E5%BE%81%E9%80%94/</url>
-    <content><![CDATA[<pre class="line-numbers language-none"><code class="language-none">再次出发！<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre>
-<p><img data-src="https://s2.loli.net/2023/04/16/WJenoGHjwb4XutC.jpg" alt="08.jpg"></p>
-]]></content>
-      <categories>
-        <category>成立篇</category>
-      </categories>
-      <tags>
-        <tag>博客</tag>
-        <tag>幼稚</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Typora学习</title>
     <url>/post/2023-04-18-Typora%E5%AD%A6%E4%B9%A0/</url>
-    <content><![CDATA[<pre class="line-numbers language-none"><code class="language-none">此文用以学习Typora的基础操作<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css"><script src="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="https://cdn.jsdelivr.net/npm/meting/dist/Meting.min.js"></script><pre class="line-numbers language-none"><code class="language-none">此文用以学习Typora的基础操作<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre>
 
 <span id="more"></span>
 
@@ -249,9 +245,23 @@
 ]]></content>
   </entry>
   <entry>
+    <title>Next新征途</title>
+    <url>/post/2023-04-16-Next%E6%96%B0%E5%BE%81%E9%80%94/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css"><script src="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="https://cdn.jsdelivr.net/npm/meting/dist/Meting.min.js"></script><pre class="line-numbers language-none"><code class="language-none">再次出发！<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre>
+<p><img data-src="https://s2.loli.net/2023/04/16/WJenoGHjwb4XutC.jpg" alt="08.jpg"></p>
+]]></content>
+      <categories>
+        <category>成立篇</category>
+      </categories>
+      <tags>
+        <tag>博客</tag>
+        <tag>幼稚</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Hexo的基础</title>
     <url>/post/2023-04-12-hello-world/</url>
-    <content><![CDATA[<p>关于Hexo的一些基础操作</p>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css"><script src="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="https://cdn.jsdelivr.net/npm/meting/dist/Meting.min.js"></script><p>关于Hexo的一些基础操作</p>
 <pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">$ hexo new <span class="token string">"My New Post"</span>
 $ hexo generate
 $ hexo deploy<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span></span></code></pre>
@@ -265,76 +275,9 @@ $ hexo deploy<span aria-hidden="true" class="line-numbers-rows"><span></span><sp
       </tags>
   </entry>
   <entry>
-    <title>建设の第五天</title>
-    <url>/post/2023-04-20-%E5%BB%BA%E7%AB%99%E7%AC%AC%E4%BA%94%E5%A4%A9/</url>
-    <content><![CDATA[<blockquote>
-<p>建站的第四天也要加油呀！</p>
-</blockquote>
-<span id="more"></span>
-
-<h4 id="今日更新："><a href="#今日更新：" class="headerlink" title="今日更新："></a><em><strong>今日更新：</strong></em></h4><table>
-<thead>
-<tr>
-<th>2023年4月20日</th>
-<th></th>
-<th></th>
-</tr>
-</thead>
-<tbody><tr>
-<td>1.相关文章-调试成功</td>
-<td>指令： hexo clean &amp;&amp; hexo g –prod<br /><code>hexo-related-posts</code>有缓存功能，测试是否启用时需要修改任意一篇文章，或<code>hexo clean</code>后再测试。</td>
-<td><img data-src="/images%5Crelated.png" alt="示例"></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody></table>
-<h4 id="今日Bug"><a href="#今日Bug" class="headerlink" title="今日Bug:"></a><strong>今日Bug:</strong></h4><ul>
-<li>markdown无法正确显示图片连接，只能本地插入</li>
-</ul>
-<h4 id="今日日志"><a href="#今日日志" class="headerlink" title="今日日志:"></a><strong><em>今日日志</em>:</strong></h4><ul>
-<li>加油！从模仿一步步走出去！</li>
-</ul>
-]]></content>
-      <categories>
-        <category>成立篇</category>
-      </categories>
-      <tags>
-        <tag>博客</tag>
-        <tag>幼稚</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>优质公众号</title>
     <url>/post/2023-04-17-%E4%BC%98%E8%B4%A8%E5%85%AC%E4%BC%97%E5%8F%B7/</url>
-    <content><![CDATA[<p>2023年4月17日：突然闲下来，回到家中，也不知道做点什么。稍微整理下下好久没动的公众号。</p>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css"><script src="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="https://cdn.jsdelivr.net/npm/meting/dist/Meting.min.js"></script><p>2023年4月17日：突然闲下来，回到家中，也不知道做点什么。稍微整理下下好久没动的公众号。</p>
 <p>这次主要处理的是公众号的筛选，那些优质的公众号往往隐藏的很深，内容丰富却很短小，利用起来可以充实很多的碎片时间。下面目前已经经一轮整理的目录。（本次只是本人为了填补日常小时间做的粗略整理，以删减为主，金子要时间才能看出价值，这些公众号经过一次次的整理还能留下的，每一个都是“扛把子”，也会分别出花时间去“考古”，今天先大致出一个框架，明天继续）</p>
 <p>2023年4月18日：删除与微博重复的公众号和内容与现阶段不符的公众号</p>
 <span id="more"></span>
@@ -665,9 +608,125 @@ $ hexo deploy<span aria-hidden="true" class="line-numbers-rows"><span></span><sp
       </tags>
   </entry>
   <entry>
+    <title>建设の第四天</title>
+    <url>/post/2023-04-19-%E5%BB%BA%E7%AB%99%E7%AC%AC%E5%9B%9B%E5%A4%A9/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css"><script src="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="https://cdn.jsdelivr.net/npm/meting/dist/Meting.min.js"></script><blockquote>
+<p>建站的第四天也要加油呀！</p>
+</blockquote>
+<span id="more"></span>
+
+<h4 id="今日更新："><a href="#今日更新：" class="headerlink" title="今日更新："></a><em><strong>今日更新：</strong></em></h4><table>
+<thead>
+<tr>
+<th>其他内容</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>小白羊最新版</td>
+</tr>
+<tr>
+<td>Office copilot</td>
+</tr>
+<tr>
+<td>百度网盘软件搬运到阿里</td>
+</tr>
+<tr>
+<td>更新下载分类从类型到下载渠道</td>
+</tr>
+<tr>
+<td>将阿里所有的文件全部转格式成exe</td>
+</tr>
+<tr>
+<td>C盘清理</td>
+</tr>
+<tr>
+<td>Office加载项</td>
+</tr>
+</tbody></table>
+<h4 id="今日失败"><a href="#今日失败" class="headerlink" title="今日失败:"></a><strong><em>今日失败</em>:</strong></h4><p>- </p>
+<h4 id="今日日志"><a href="#今日日志" class="headerlink" title="今日日志:"></a><strong><em>今日日志</em>:</strong></h4><ul>
+<li>博客今天还是没想好怎么继续完善…..郁闷</li>
+</ul>
+]]></content>
+      <categories>
+        <category>成立篇</category>
+      </categories>
+      <tags>
+        <tag>博客</tag>
+        <tag>幼稚</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>建设の第五天</title>
+    <url>/post/2023-04-20-%E5%BB%BA%E7%AB%99%E7%AC%AC%E4%BA%94%E5%A4%A9/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css"><script src="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="https://cdn.jsdelivr.net/npm/meting/dist/Meting.min.js"></script><blockquote>
+<p>建站的第四天也要加油呀！</p>
+</blockquote>
+<span id="more"></span>
+
+<h4 id="今日更新："><a href="#今日更新：" class="headerlink" title="今日更新："></a><em><strong>今日更新：</strong></em></h4><table>
+<thead>
+<tr>
+<th>2023年4月20日</th>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody><tr>
+<td>1.相关文章-调试成功</td>
+<td>1. 指令： hexo clean &amp;&amp; hexo g –prod<br />2.<code>hexo-related-posts</code>有缓存功能，测试是否启用时需要修改任意一篇文章，或<code>hexo clean</code>后再测试。<br />3.由于本地调试直接使用<code>hexo s</code>，所以相关文章默认会被禁用。</td>
+<td><img data-src="/images%5Crelated.png" alt="示例"></td>
+</tr>
+<tr>
+<td>2.添加live2d模型仓库</td>
+<td>live2d-widget-model-chitose<br/>live2d-widget-model-epsilon2_1<br/>live2d-widget-model-gf<br/>live2d-widget-model-haruto<br/>live2d-widget-model-hibiki<br/>live2d-widget-model-hijiki<br/>live2d-widget-model-izumi<br/>live2d-widget-model-koharu<br/>live2d-widget-model-miku<br/>live2d-widget-model-ni-j<br/>live2d-widget-model-nico<br/>live2d-widget-model-nietzsche<br/>live2d-widget-model-nipsilon<br/>live2d-widget-model-nito<br/>live2d-widget-model-shizuku<br/>live2d-widget-model-tororo<br/>live2d-widget-model-tsumiki<br/>live2d-widget-model-unitychan<br/>live2d-widget-model-wanko<br/>live2d-widget-model-z16<br/></td>
+<td>npm install live2d-widget-model-模型名称</td>
+</tr>
+<tr>
+<td>3.新增密码文档</td>
+<td>password: hello</td>
+<td></td>
+</tr>
+<tr>
+<td>4.分类子菜单</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody></table>
+<h4 id="今日Bug"><a href="#今日Bug" class="headerlink" title="今日Bug:"></a><strong>今日Bug:</strong></h4><ul>
+<li>markdown无法正确显示图片连接，只能本地插入</li>
+</ul>
+<h4 id="今日日志"><a href="#今日日志" class="headerlink" title="今日日志:"></a><strong><em>今日日志</em>:</strong></h4><ul>
+<li>加油！从模仿一步步走出去！</li>
+</ul>
+]]></content>
+      <categories>
+        <category>成立篇</category>
+      </categories>
+      <tags>
+        <tag>博客</tag>
+        <tag>幼稚</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>建设の第一天</title>
     <url>/post/2023-04-16-%E7%AC%AC%E4%B8%80%E5%A4%A9/</url>
-    <content><![CDATA[<pre class="line-numbers language-none"><code class="language-none">第一天<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css"><script src="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="https://cdn.jsdelivr.net/npm/meting/dist/Meting.min.js"></script><pre class="line-numbers language-none"><code class="language-none">第一天<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre>
 <span id="more"></span>
 
 <p><em><strong>今日更新：</strong></em></p>
@@ -707,35 +766,9 @@ $ hexo deploy<span aria-hidden="true" class="line-numbers-rows"><span></span><sp
       </tags>
   </entry>
   <entry>
-    <title>建设の第三天</title>
-    <url>/post/2023-04-18-%E7%AC%AC%E4%B8%89%E5%A4%A9/</url>
-    <content><![CDATA[<pre class="line-numbers language-none"><code class="language-none">第三天<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre>
-<p>xxxxxxxxxx $ hexo new “My New Post”$ hexo generate$ hexo deploybash</p>
-<h4 id="今日更新："><a href="#今日更新：" class="headerlink" title="今日更新："></a><em><strong>今日更新：</strong></em></h4><ol>
-<li>Markdown系统学习</li>
-<li>Typora主题更新</li>
-<li>B站签署版权授权书</li>
-<li>B站开启创作激励计划</li>
-<li>知乎B站发布更新文章</li>
-</ol>
-<h4 id="今日失败"><a href="#今日失败" class="headerlink" title="今日失败:"></a><strong><em>今日失败</em>:</strong></h4><p>- </p>
-<h4 id="今日日志"><a href="#今日日志" class="headerlink" title="今日日志:"></a><strong><em>今日日志</em>:</strong></h4><ul>
-<li>五点的闹钟我醒了，淅淅沥沥的小雨却将我催眠</li>
-</ul>
-<p>​    </p>
-]]></content>
-      <categories>
-        <category>成立篇</category>
-      </categories>
-      <tags>
-        <tag>博客</tag>
-        <tag>幼稚</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>建设の第二天</title>
     <url>/post/2023-04-17-%E7%AC%AC%E4%BA%8C%E5%A4%A9/</url>
-    <content><![CDATA[<pre class="line-numbers language-none"><code class="language-none">第二天<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css"><script src="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="https://cdn.jsdelivr.net/npm/meting/dist/Meting.min.js"></script><pre class="line-numbers language-none"><code class="language-none">第二天<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre>
 <span id="more"></span>
 
 <h4 id="今日更新："><a href="#今日更新：" class="headerlink" title="今日更新："></a><em><strong>今日更新：</strong></em></h4><ol>
@@ -939,45 +972,23 @@ Any content (support inline tags too).
       </tags>
   </entry>
   <entry>
-    <title>建设の第四天</title>
-    <url>/post/2023-04-19-%E5%BB%BA%E7%AB%99%E7%AC%AC%E5%9B%9B%E5%A4%A9/</url>
-    <content><![CDATA[<blockquote>
-<p>建站的第四天也要加油呀！</p>
-</blockquote>
-<span id="more"></span>
-
-<h4 id="今日更新："><a href="#今日更新：" class="headerlink" title="今日更新："></a><em><strong>今日更新：</strong></em></h4><table>
-<thead>
-<tr>
-<th>其他内容</th>
-</tr>
-</thead>
-<tbody><tr>
-<td>小白羊最新版</td>
-</tr>
-<tr>
-<td>Office copilot</td>
-</tr>
-<tr>
-<td>百度网盘软件搬运到阿里</td>
-</tr>
-<tr>
-<td>更新下载分类从类型到下载渠道</td>
-</tr>
-<tr>
-<td>将阿里所有的文件全部转格式成exe</td>
-</tr>
-<tr>
-<td>C盘清理</td>
-</tr>
-<tr>
-<td>Office加载项</td>
-</tr>
-</tbody></table>
+    <title>建设の第三天</title>
+    <url>/post/2023-04-18-%E7%AC%AC%E4%B8%89%E5%A4%A9/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css"><script src="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="https://cdn.jsdelivr.net/npm/meting/dist/Meting.min.js"></script><pre class="line-numbers language-none"><code class="language-none">第三天<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre>
+<p>xxxxxxxxxx $ hexo new “My New Post”$ hexo generate$ hexo deploybash</p>
+<h4 id="今日更新："><a href="#今日更新：" class="headerlink" title="今日更新："></a><em><strong>今日更新：</strong></em></h4><ol>
+<li>Markdown系统学习</li>
+<li>Typora主题更新</li>
+<li>B站签署版权授权书</li>
+<li>B站开启创作激励计划</li>
+<li>知乎B站发布更新文章</li>
+</ol>
 <h4 id="今日失败"><a href="#今日失败" class="headerlink" title="今日失败:"></a><strong><em>今日失败</em>:</strong></h4><p>- </p>
 <h4 id="今日日志"><a href="#今日日志" class="headerlink" title="今日日志:"></a><strong><em>今日日志</em>:</strong></h4><ul>
-<li>博客今天还是没想好怎么继续完善…..郁闷</li>
+<li>五点的闹钟我醒了，淅淅沥沥的小雨却将我催眠</li>
+<li>很多事需要不断遗忘才可以潜行</li>
 </ul>
+<p>​    </p>
 ]]></content>
       <categories>
         <category>成立篇</category>
@@ -986,5 +997,10 @@ Any content (support inline tags too).
         <tag>博客</tag>
         <tag>幼稚</tag>
       </tags>
+  </entry>
+  <entry>
+    <title>音乐文档</title>
+    <url>/post/2023-04-20-%E9%9F%B3%E4%B9%90%E6%96%87%E6%A1%A3/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css"><script src="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="https://cdn.jsdelivr.net/npm/meting/dist/Meting.min.js"></script>]]></content>
   </entry>
 </search>

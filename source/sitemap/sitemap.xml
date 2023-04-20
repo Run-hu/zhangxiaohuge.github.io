@@ -2,7 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://xiaohuge.icu/post/2023-04-20-%E9%9F%B3%E4%B9%90%E6%96%87%E6%A1%A3/</loc>
+    
+    <lastmod>2023-04-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://xiaohuge.icu/post/2023-04-20-%E5%BB%BA%E7%AB%99%E7%AC%AC%E4%BA%94%E5%A4%A9/</loc>
+    
+    <lastmod>2023-04-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://xiaohuge.icu/post/2023-04-20-4-20/</loc>
+    
+    <lastmod>2023-04-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://xiaohuge.icu/diary/index.html</loc>
+    
+    <lastmod>2023-04-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://xiaohuge.icu/post/2023-04-16-Next%E6%96%B0%E5%BE%81%E9%80%94/</loc>
     
     <lastmod>2023-04-20</lastmod>
     
@@ -20,7 +56,7 @@
   </url>
   
   <url>
-    <loc>http://xiaohuge.icu/post/2023-04-17-%E7%AC%AC%E4%BA%8C%E5%A4%A9/</loc>
+    <loc>http://xiaohuge.icu/post/2023-04-18-%E7%AC%AC%E4%B8%89%E5%A4%A9/</loc>
     
     <lastmod>2023-04-20</lastmod>
     
@@ -29,7 +65,7 @@
   </url>
   
   <url>
-    <loc>http://xiaohuge.icu/post/2023-04-18-%E7%AC%AC%E4%B8%89%E5%A4%A9/</loc>
+    <loc>http://xiaohuge.icu/post/2023-04-17-%E7%AC%AC%E4%BA%8C%E5%A4%A9/</loc>
     
     <lastmod>2023-04-20</lastmod>
     
@@ -75,15 +111,6 @@
   
   <url>
     <loc>http://xiaohuge.icu/post/2023-04-12-hello-world/</loc>
-    
-    <lastmod>2023-04-18</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://xiaohuge.icu/post/2023-04-16-Next%E6%96%B0%E5%BE%81%E9%80%94/</loc>
     
     <lastmod>2023-04-18</lastmod>
     
@@ -231,6 +258,13 @@
   </url>
   
 
+  
+  <url>
+    <loc>http://xiaohuge.icu/categories/diary/</loc>
+    <lastmod>2023-04-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
   <url>
     <loc>http://xiaohuge.icu/categories/%E6%93%8D%E4%BD%9C%E7%AF%87/</loc>
