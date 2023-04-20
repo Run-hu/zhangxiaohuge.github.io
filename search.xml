@@ -11,6 +11,20 @@
       </categories>
   </entry>
   <entry>
+    <title>Next新征途</title>
+    <url>/post/2023-04-16-Next%E6%96%B0%E5%BE%81%E9%80%94/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css"><script src="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="https://cdn.jsdelivr.net/npm/meting/dist/Meting.min.js"></script><pre class="line-numbers language-none"><code class="language-none">再次出发！<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre>
+<p><img data-src="https://s2.loli.net/2023/04/16/WJenoGHjwb4XutC.jpg" alt="08.jpg"></p>
+]]></content>
+      <categories>
+        <category>成立篇</category>
+      </categories>
+      <tags>
+        <tag>博客</tag>
+        <tag>幼稚</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Markdown学习</title>
     <url>/post/2023-04-17-Md%E5%9F%BA%E6%9C%AC%E6%A0%BC%E5%BC%8F/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css"><script src="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="https://cdn.jsdelivr.net/npm/meting/dist/Meting.min.js"></script><blockquote>
@@ -117,7 +131,7 @@
 <tr>
 <td>链接(邮箱)</td>
 <td><code>[显示文本](链接网址)</code>&#x2F;<code>&lt;链接网址&gt;</code>&#x2F;<code>name@user.com</code></td>
-<td>这是<a href="http://xiaohuge.icu/">小沪的博客链接</a> <a href="http://xiaohuge.icu/">http://xiaohuge.icu</a>  <br />点击即可发送邮件<a href="mailto:&#51;&#51;&#x39;&#48;&#x34;&#54;&#x36;&#x38;&#x37;&#53;&#x40;&#113;&#113;&#46;&#x63;&#111;&#109;">&#51;&#51;&#x39;&#48;&#x34;&#54;&#x36;&#x38;&#x37;&#53;&#x40;&#113;&#113;&#46;&#x63;&#111;&#109;</a></td>
+<td>这是<a href="http://xiaohuge.icu/">小沪的博客链接</a> <a href="http://xiaohuge.icu/">http://xiaohuge.icu</a>  <br />点击即可发送邮件<a href="mailto:&#x33;&#51;&#57;&#x30;&#52;&#x36;&#x36;&#56;&#x37;&#x35;&#64;&#x71;&#x71;&#x2e;&#99;&#111;&#x6d;">&#x33;&#51;&#57;&#x30;&#52;&#x36;&#x36;&#56;&#x37;&#x35;&#64;&#x71;&#x71;&#x2e;&#99;&#111;&#x6d;</a></td>
 </tr>
 <tr>
 <td>图片</td>
@@ -230,35 +244,6 @@
       </tags>
   </entry>
   <entry>
-    <title>Typora学习</title>
-    <url>/post/2023-04-18-Typora%E5%AD%A6%E4%B9%A0/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css"><script src="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="https://cdn.jsdelivr.net/npm/meting/dist/Meting.min.js"></script><pre class="line-numbers language-none"><code class="language-none">此文用以学习Typora的基础操作<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre>
-
-<span id="more"></span>
-
-<ol>
-<li><code>ctrl</code>+<code>B</code><strong>加粗</strong></li>
-<li><code>ctrl</code>+<code>U</code><u>下斜线</u></li>
-<li><code>ctrl</code>+<code>I</code><em>斜体</em></li>
-<li><code>ctrl</code>+<code>shift</code>+<code>~</code> <code>代码块</code></li>
-</ol>
-]]></content>
-  </entry>
-  <entry>
-    <title>Next新征途</title>
-    <url>/post/2023-04-16-Next%E6%96%B0%E5%BE%81%E9%80%94/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css"><script src="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="https://cdn.jsdelivr.net/npm/meting/dist/Meting.min.js"></script><pre class="line-numbers language-none"><code class="language-none">再次出发！<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre>
-<p><img data-src="https://s2.loli.net/2023/04/16/WJenoGHjwb4XutC.jpg" alt="08.jpg"></p>
-]]></content>
-      <categories>
-        <category>成立篇</category>
-      </categories>
-      <tags>
-        <tag>博客</tag>
-        <tag>幼稚</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Hexo的基础</title>
     <url>/post/2023-04-12-hello-world/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css"><script src="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="https://cdn.jsdelivr.net/npm/meting/dist/Meting.min.js"></script><p>关于Hexo的一些基础操作</p>
@@ -273,6 +258,21 @@ $ hexo deploy<span aria-hidden="true" class="line-numbers-rows"><span></span><sp
         <tag>成立</tag>
         <tag>基础文件</tag>
       </tags>
+  </entry>
+  <entry>
+    <title>Typora学习</title>
+    <url>/post/2023-04-18-Typora%E5%AD%A6%E4%B9%A0/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css"><script src="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="https://cdn.jsdelivr.net/npm/meting/dist/Meting.min.js"></script><pre class="line-numbers language-none"><code class="language-none">此文用以学习Typora的基础操作<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre>
+
+<span id="more"></span>
+
+<ol>
+<li><code>ctrl</code>+<code>B</code><strong>加粗</strong></li>
+<li><code>ctrl</code>+<code>U</code><u>下斜线</u></li>
+<li><code>ctrl</code>+<code>I</code><em>斜体</em></li>
+<li><code>ctrl</code>+<code>shift</code>+<code>~</code> <code>代码块</code></li>
+</ol>
+]]></content>
   </entry>
   <entry>
     <title>优质公众号</title>
@@ -608,55 +608,6 @@ $ hexo deploy<span aria-hidden="true" class="line-numbers-rows"><span></span><sp
       </tags>
   </entry>
   <entry>
-    <title>建设の第四天</title>
-    <url>/post/2023-04-19-%E5%BB%BA%E7%AB%99%E7%AC%AC%E5%9B%9B%E5%A4%A9/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css"><script src="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="https://cdn.jsdelivr.net/npm/meting/dist/Meting.min.js"></script><blockquote>
-<p>建站的第四天也要加油呀！</p>
-</blockquote>
-<span id="more"></span>
-
-<h4 id="今日更新："><a href="#今日更新：" class="headerlink" title="今日更新："></a><em><strong>今日更新：</strong></em></h4><table>
-<thead>
-<tr>
-<th>其他内容</th>
-</tr>
-</thead>
-<tbody><tr>
-<td>小白羊最新版</td>
-</tr>
-<tr>
-<td>Office copilot</td>
-</tr>
-<tr>
-<td>百度网盘软件搬运到阿里</td>
-</tr>
-<tr>
-<td>更新下载分类从类型到下载渠道</td>
-</tr>
-<tr>
-<td>将阿里所有的文件全部转格式成exe</td>
-</tr>
-<tr>
-<td>C盘清理</td>
-</tr>
-<tr>
-<td>Office加载项</td>
-</tr>
-</tbody></table>
-<h4 id="今日失败"><a href="#今日失败" class="headerlink" title="今日失败:"></a><strong><em>今日失败</em>:</strong></h4><p>- </p>
-<h4 id="今日日志"><a href="#今日日志" class="headerlink" title="今日日志:"></a><strong><em>今日日志</em>:</strong></h4><ul>
-<li>博客今天还是没想好怎么继续完善…..郁闷</li>
-</ul>
-]]></content>
-      <categories>
-        <category>成立篇</category>
-      </categories>
-      <tags>
-        <tag>博客</tag>
-        <tag>幼稚</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>建设の第五天</title>
     <url>/post/2023-04-20-%E5%BB%BA%E7%AB%99%E7%AC%AC%E4%BA%94%E5%A4%A9/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css"><script src="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="https://cdn.jsdelivr.net/npm/meting/dist/Meting.min.js"></script><blockquote>
@@ -693,12 +644,12 @@ $ hexo deploy<span aria-hidden="true" class="line-numbers-rows"><span></span><sp
 <td></td>
 </tr>
 <tr>
-<td></td>
+<td>5.添加音乐播放器</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td></td>
+<td>挑战Wordpress！</td>
 <td></td>
 <td></td>
 </tr>
@@ -756,6 +707,82 @@ $ hexo deploy<span aria-hidden="true" class="line-numbers-rows"><span></span><sp
 <p><strong>2023年4月16日</strong></p>
 <p>57:32	五公里	轻微拉伸+三人早安	onenote模版<br>6:12:43	李跳跳自动删除信息		<br>6:45:42	打卡众裁日常完成	神游躺了一下	知乎回答问题1<br>7:10:22	网站开始！		<br>8:49:55	博客	馄饨	<br>19:12:32	结束</p>
 <p>​		<br>​			</p>
+]]></content>
+      <categories>
+        <category>成立篇</category>
+      </categories>
+      <tags>
+        <tag>博客</tag>
+        <tag>幼稚</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>建设の第四天</title>
+    <url>/post/2023-04-19-%E5%BB%BA%E7%AB%99%E7%AC%AC%E5%9B%9B%E5%A4%A9/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css"><script src="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="https://cdn.jsdelivr.net/npm/meting/dist/Meting.min.js"></script><blockquote>
+<p>建站的第四天也要加油呀！</p>
+</blockquote>
+<span id="more"></span>
+
+<h4 id="今日更新："><a href="#今日更新：" class="headerlink" title="今日更新："></a><em><strong>今日更新：</strong></em></h4><table>
+<thead>
+<tr>
+<th>其他内容</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>小白羊最新版</td>
+</tr>
+<tr>
+<td>Office copilot</td>
+</tr>
+<tr>
+<td>百度网盘软件搬运到阿里</td>
+</tr>
+<tr>
+<td>更新下载分类从类型到下载渠道</td>
+</tr>
+<tr>
+<td>将阿里所有的文件全部转格式成exe</td>
+</tr>
+<tr>
+<td>C盘清理</td>
+</tr>
+<tr>
+<td>Office加载项</td>
+</tr>
+</tbody></table>
+<h4 id="今日失败"><a href="#今日失败" class="headerlink" title="今日失败:"></a><strong><em>今日失败</em>:</strong></h4><p>- </p>
+<h4 id="今日日志"><a href="#今日日志" class="headerlink" title="今日日志:"></a><strong><em>今日日志</em>:</strong></h4><ul>
+<li>博客今天还是没想好怎么继续完善…..郁闷</li>
+</ul>
+]]></content>
+      <categories>
+        <category>成立篇</category>
+      </categories>
+      <tags>
+        <tag>博客</tag>
+        <tag>幼稚</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>建设の第三天</title>
+    <url>/post/2023-04-18-%E7%AC%AC%E4%B8%89%E5%A4%A9/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css"><script src="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="https://cdn.jsdelivr.net/npm/meting/dist/Meting.min.js"></script><pre class="line-numbers language-none"><code class="language-none">第三天<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre>
+<p>xxxxxxxxxx $ hexo new “My New Post”$ hexo generate$ hexo deploybash</p>
+<h4 id="今日更新："><a href="#今日更新：" class="headerlink" title="今日更新："></a><em><strong>今日更新：</strong></em></h4><ol>
+<li>Markdown系统学习</li>
+<li>Typora主题更新</li>
+<li>B站签署版权授权书</li>
+<li>B站开启创作激励计划</li>
+<li>知乎B站发布更新文章</li>
+</ol>
+<h4 id="今日失败"><a href="#今日失败" class="headerlink" title="今日失败:"></a><strong><em>今日失败</em>:</strong></h4><p>- </p>
+<h4 id="今日日志"><a href="#今日日志" class="headerlink" title="今日日志:"></a><strong><em>今日日志</em>:</strong></h4><ul>
+<li>五点的闹钟我醒了，淅淅沥沥的小雨却将我催眠</li>
+<li>很多事需要不断遗忘才可以潜行</li>
+</ul>
+<p>​    </p>
 ]]></content>
       <categories>
         <category>成立篇</category>
@@ -966,41 +993,23 @@ Any content (support inline tags too).
         <category>成立篇</category>
       </categories>
       <tags>
+        <tag>博客</tag>
+        <tag>幼稚</tag>
         <tag>Markdown</tag>
-        <tag>博客</tag>
-        <tag>幼稚</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>建设の第三天</title>
-    <url>/post/2023-04-18-%E7%AC%AC%E4%B8%89%E5%A4%A9/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css"><script src="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="https://cdn.jsdelivr.net/npm/meting/dist/Meting.min.js"></script><pre class="line-numbers language-none"><code class="language-none">第三天<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre>
-<p>xxxxxxxxxx $ hexo new “My New Post”$ hexo generate$ hexo deploybash</p>
-<h4 id="今日更新："><a href="#今日更新：" class="headerlink" title="今日更新："></a><em><strong>今日更新：</strong></em></h4><ol>
-<li>Markdown系统学习</li>
-<li>Typora主题更新</li>
-<li>B站签署版权授权书</li>
-<li>B站开启创作激励计划</li>
-<li>知乎B站发布更新文章</li>
-</ol>
-<h4 id="今日失败"><a href="#今日失败" class="headerlink" title="今日失败:"></a><strong><em>今日失败</em>:</strong></h4><p>- </p>
-<h4 id="今日日志"><a href="#今日日志" class="headerlink" title="今日日志:"></a><strong><em>今日日志</em>:</strong></h4><ul>
-<li>五点的闹钟我醒了，淅淅沥沥的小雨却将我催眠</li>
-<li>很多事需要不断遗忘才可以潜行</li>
-</ul>
-<p>​    </p>
-]]></content>
-      <categories>
-        <category>成立篇</category>
-      </categories>
-      <tags>
-        <tag>博客</tag>
-        <tag>幼稚</tag>
       </tags>
   </entry>
   <entry>
     <title>音乐文档</title>
     <url>/post/2023-04-20-%E9%9F%B3%E4%B9%90%E6%96%87%E6%A1%A3/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css"><script src="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="https://cdn.jsdelivr.net/npm/meting/dist/Meting.min.js"></script>]]></content>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css"><script src="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="https://cdn.jsdelivr.net/npm/meting/dist/Meting.min.js"></script>
+    <div id="aplayer-GQemojlK" class="aplayer aplayer-tag-marker meting-tag-marker"
+         data-id="1895164923" data-server="netease" data-type="song" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#ad7a86"
+    ></div>
+
+
+    <div id="aplayer-HDNLpqKZ" class="aplayer aplayer-tag-marker meting-tag-marker"
+         data-id="60198" data-server="netease" data-type="playlist" data-mode="circulation" data-autoplay="true" data-mutex="false" data-listmaxheight="340px" data-preload="none" data-theme="#ad7a86"
+    ></div>
+]]></content>
   </entry>
 </search>
