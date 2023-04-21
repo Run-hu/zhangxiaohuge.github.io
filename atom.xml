@@ -3,11 +3,11 @@
   <title>小沪の博客</title>
   
   <subtitle>人生只有一次大胆的生活💜</subtitle>
-  <link href="http://xiaohuge.icu/atom.xml" rel="self"/>
+  <link href="https://xiaohuge.icu/atom.xml" rel="self"/>
   
-  <link href="http://xiaohuge.icu/"/>
-  <updated>2023-04-20T08:17:13.779Z</updated>
-  <id>http://xiaohuge.icu/</id>
+  <link href="https://xiaohuge.icu/"/>
+  <updated>2023-04-21T03:56:09.033Z</updated>
+  <id>https://xiaohuge.icu/</id>
   
   <author>
     <name>小沪</name>
@@ -17,11 +17,49 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Hexo插件录</title>
+    <link href="https://xiaohuge.icu/posts/2b9a2fb7.html"/>
+    <id>https://xiaohuge.icu/posts/2b9a2fb7.html</id>
+    <published>2023-04-21T03:55:19.000Z</published>
+    <updated>2023-04-21T03:56:09.033Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;整理一下目前本博客所用到的所有插件&lt;/p&gt;</summary>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>建设の第六天</title>
+    <link href="https://xiaohuge.icu/posts/3244.html"/>
+    <id>https://xiaohuge.icu/posts/3244.html</id>
+    <published>2023-04-21T02:45:59.000Z</published>
+    <updated>2023-04-21T04:01:39.709Z</updated>
+    
+    
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;继续美化的一天！&lt;/p&gt;
+&lt;/blockquote&gt;</summary>
+    
+    
+    
+    <category term="成立篇" scheme="https://xiaohuge.icu/categories/%E6%88%90%E7%AB%8B%E7%AF%87/"/>
+    
+    
+    <category term="博客" scheme="https://xiaohuge.icu/tags/%E5%8D%9A%E5%AE%A2/"/>
+    
+    <category term="幼稚" scheme="https://xiaohuge.icu/tags/%E5%B9%BC%E7%A8%9A/"/>
+    
+  </entry>
+  
+  <entry>
     <title>音乐文档</title>
-    <link href="http://xiaohuge.icu/post/2023-04-20-%E9%9F%B3%E4%B9%90%E6%96%87%E6%A1%A3/"/>
-    <id>http://xiaohuge.icu/post/2023-04-20-%E9%9F%B3%E4%B9%90%E6%96%87%E6%A1%A3/</id>
+    <link href="https://xiaohuge.icu/posts/20138.html"/>
+    <id>https://xiaohuge.icu/posts/20138.html</id>
     <published>2023-04-20T04:37:49.000Z</published>
-    <updated>2023-04-20T08:17:13.779Z</updated>
+    <updated>2023-04-21T02:49:29.140Z</updated>
     
     
       
@@ -39,25 +77,25 @@
   
   <entry>
     <title>4-20</title>
-    <link href="http://xiaohuge.icu/post/2023-04-20-4-20/"/>
-    <id>http://xiaohuge.icu/post/2023-04-20-4-20/</id>
+    <link href="https://xiaohuge.icu/posts/19851.html"/>
+    <id>https://xiaohuge.icu/posts/19851.html</id>
     <published>2023-04-20T04:01:13.000Z</published>
-    <updated>2023-04-20T08:17:13.766Z</updated>
+    <updated>2023-04-21T02:50:10.277Z</updated>
     
     
     <summary type="html">&lt;p&gt;测试日记&lt;/p&gt;</summary>
     
     
     
-    <category term="diary" scheme="http://xiaohuge.icu/categories/diary/"/>
+    <category term="diary" scheme="https://xiaohuge.icu/categories/diary/"/>
     
     
   </entry>
   
   <entry>
     <title>建设の第五天</title>
-    <link href="http://xiaohuge.icu/post/2023-04-20-%E5%BB%BA%E7%AB%99%E7%AC%AC%E4%BA%94%E5%A4%A9/"/>
-    <id>http://xiaohuge.icu/post/2023-04-20-%E5%BB%BA%E7%AB%99%E7%AC%AC%E4%BA%94%E5%A4%A9/</id>
+    <link href="https://xiaohuge.icu/posts/8c29703e.html"/>
+    <id>https://xiaohuge.icu/posts/8c29703e.html</id>
     <published>2023-04-20T00:39:51.000Z</published>
     <updated>2023-04-20T09:40:46.091Z</updated>
     
@@ -68,21 +106,21 @@
     
     
     
-    <category term="成立篇" scheme="http://xiaohuge.icu/categories/%E6%88%90%E7%AB%8B%E7%AF%87/"/>
+    <category term="成立篇" scheme="https://xiaohuge.icu/categories/%E6%88%90%E7%AB%8B%E7%AF%87/"/>
     
     
-    <category term="博客" scheme="http://xiaohuge.icu/tags/%E5%8D%9A%E5%AE%A2/"/>
+    <category term="博客" scheme="https://xiaohuge.icu/tags/%E5%8D%9A%E5%AE%A2/"/>
     
-    <category term="幼稚" scheme="http://xiaohuge.icu/tags/%E5%B9%BC%E7%A8%9A/"/>
+    <category term="幼稚" scheme="https://xiaohuge.icu/tags/%E5%B9%BC%E7%A8%9A/"/>
     
   </entry>
   
   <entry>
     <title>建设の第四天</title>
-    <link href="http://xiaohuge.icu/post/2023-04-19-%E5%BB%BA%E7%AB%99%E7%AC%AC%E5%9B%9B%E5%A4%A9/"/>
-    <id>http://xiaohuge.icu/post/2023-04-19-%E5%BB%BA%E7%AB%99%E7%AC%AC%E5%9B%9B%E5%A4%A9/</id>
+    <link href="https://xiaohuge.icu/posts/34315.html"/>
+    <id>https://xiaohuge.icu/posts/34315.html</id>
     <published>2023-04-19T00:39:51.000Z</published>
-    <updated>2023-04-20T08:17:13.773Z</updated>
+    <updated>2023-04-21T03:57:09.217Z</updated>
     
     
     <summary type="html">&lt;blockquote&gt;
@@ -91,48 +129,42 @@
     
     
     
-    <category term="成立篇" scheme="http://xiaohuge.icu/categories/%E6%88%90%E7%AB%8B%E7%AF%87/"/>
+    <category term="成立篇" scheme="https://xiaohuge.icu/categories/%E6%88%90%E7%AB%8B%E7%AF%87/"/>
     
     
-    <category term="博客" scheme="http://xiaohuge.icu/tags/%E5%8D%9A%E5%AE%A2/"/>
+    <category term="博客" scheme="https://xiaohuge.icu/tags/%E5%8D%9A%E5%AE%A2/"/>
     
-    <category term="幼稚" scheme="http://xiaohuge.icu/tags/%E5%B9%BC%E7%A8%9A/"/>
+    <category term="幼稚" scheme="https://xiaohuge.icu/tags/%E5%B9%BC%E7%A8%9A/"/>
     
   </entry>
   
   <entry>
     <title>建设の第三天</title>
-    <link href="http://xiaohuge.icu/post/2023-04-18-%E7%AC%AC%E4%B8%89%E5%A4%A9/"/>
-    <id>http://xiaohuge.icu/post/2023-04-18-%E7%AC%AC%E4%B8%89%E5%A4%A9/</id>
+    <link href="https://xiaohuge.icu/posts/59594.html"/>
+    <id>https://xiaohuge.icu/posts/59594.html</id>
     <published>2023-04-18T02:30:07.000Z</published>
-    <updated>2023-04-20T08:17:13.776Z</updated>
+    <updated>2023-04-21T02:55:10.879Z</updated>
     
     
-      
-      
-        
-        
-    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css&quot;&gt;&lt;script</summary>
-        
-      
+    <summary type="html">&lt;pre class=&quot;line-numbers language-none&quot;&gt;&lt;code class=&quot;language-none&quot;&gt;第三天&lt;span aria-hidden=&quot;true&quot; class=&quot;line-numbers-rows&quot;&gt;&lt;span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;</summary>
     
     
     
-    <category term="成立篇" scheme="http://xiaohuge.icu/categories/%E6%88%90%E7%AB%8B%E7%AF%87/"/>
+    <category term="成立篇" scheme="https://xiaohuge.icu/categories/%E6%88%90%E7%AB%8B%E7%AF%87/"/>
     
     
-    <category term="博客" scheme="http://xiaohuge.icu/tags/%E5%8D%9A%E5%AE%A2/"/>
+    <category term="博客" scheme="https://xiaohuge.icu/tags/%E5%8D%9A%E5%AE%A2/"/>
     
-    <category term="幼稚" scheme="http://xiaohuge.icu/tags/%E5%B9%BC%E7%A8%9A/"/>
+    <category term="幼稚" scheme="https://xiaohuge.icu/tags/%E5%B9%BC%E7%A8%9A/"/>
     
   </entry>
   
   <entry>
     <title>Typora学习</title>
-    <link href="http://xiaohuge.icu/post/2023-04-18-Typora%E5%AD%A6%E4%B9%A0/"/>
-    <id>http://xiaohuge.icu/post/2023-04-18-Typora%E5%AD%A6%E4%B9%A0/</id>
+    <link href="https://xiaohuge.icu/posts/2562.html"/>
+    <id>https://xiaohuge.icu/posts/2562.html</id>
     <published>2023-04-18T00:49:52.000Z</published>
-    <updated>2023-04-20T08:17:13.769Z</updated>
+    <updated>2023-04-21T02:50:06.793Z</updated>
     
     
     <summary type="html">&lt;pre class=&quot;line-numbers language-none&quot;&gt;&lt;code class=&quot;language-none&quot;&gt;此文用以学习Typora的基础操作&lt;span aria-hidden=&quot;true&quot; class=&quot;line-numbers-rows&quot;&gt;&lt;span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;</summary>
@@ -144,8 +176,8 @@
   
   <entry>
     <title>优质公众号</title>
-    <link href="http://xiaohuge.icu/post/2023-04-17-%E4%BC%98%E8%B4%A8%E5%85%AC%E4%BC%97%E5%8F%B7/"/>
-    <id>http://xiaohuge.icu/post/2023-04-17-%E4%BC%98%E8%B4%A8%E5%85%AC%E4%BC%97%E5%8F%B7/</id>
+    <link href="https://xiaohuge.icu/posts/44589.html"/>
+    <id>https://xiaohuge.icu/posts/44589.html</id>
     <published>2023-04-17T12:55:36.000Z</published>
     <updated>2023-04-20T08:17:13.772Z</updated>
     
@@ -156,19 +188,19 @@
     
     
     
-    <category term="微信编" scheme="http://xiaohuge.icu/categories/%E5%BE%AE%E4%BF%A1%E7%BC%96/"/>
+    <category term="微信编" scheme="https://xiaohuge.icu/categories/%E5%BE%AE%E4%BF%A1%E7%BC%96/"/>
     
     
-    <category term="幼稚" scheme="http://xiaohuge.icu/tags/%E5%B9%BC%E7%A8%9A/"/>
+    <category term="幼稚" scheme="https://xiaohuge.icu/tags/%E5%B9%BC%E7%A8%9A/"/>
     
-    <category term="公众号" scheme="http://xiaohuge.icu/tags/%E5%85%AC%E4%BC%97%E5%8F%B7/"/>
+    <category term="公众号" scheme="https://xiaohuge.icu/tags/%E5%85%AC%E4%BC%97%E5%8F%B7/"/>
     
   </entry>
   
   <entry>
     <title>Markdown学习</title>
-    <link href="http://xiaohuge.icu/post/2023-04-17-Md%E5%9F%BA%E6%9C%AC%E6%A0%BC%E5%BC%8F/"/>
-    <id>http://xiaohuge.icu/post/2023-04-17-Md%E5%9F%BA%E6%9C%AC%E6%A0%BC%E5%BC%8F/</id>
+    <link href="https://xiaohuge.icu/posts/54885.html"/>
+    <id>https://xiaohuge.icu/posts/54885.html</id>
     <published>2023-04-17T04:46:36.781Z</published>
     <updated>2023-04-20T08:17:13.764Z</updated>
     
@@ -183,46 +215,46 @@
     
     
     
-    <category term="操作篇" scheme="http://xiaohuge.icu/categories/%E6%93%8D%E4%BD%9C%E7%AF%87/"/>
+    <category term="操作篇" scheme="https://xiaohuge.icu/categories/%E6%93%8D%E4%BD%9C%E7%AF%87/"/>
     
     
-    <category term="Markdown" scheme="http://xiaohuge.icu/tags/Markdown/"/>
+    <category term="Markdown" scheme="https://xiaohuge.icu/tags/Markdown/"/>
     
-    <category term="成立" scheme="http://xiaohuge.icu/tags/%E6%88%90%E7%AB%8B/"/>
+    <category term="成立" scheme="https://xiaohuge.icu/tags/%E6%88%90%E7%AB%8B/"/>
     
-    <category term="Typora" scheme="http://xiaohuge.icu/tags/Typora/"/>
+    <category term="Typora" scheme="https://xiaohuge.icu/tags/Typora/"/>
     
   </entry>
   
   <entry>
     <title>建设の第二天</title>
-    <link href="http://xiaohuge.icu/post/2023-04-17-%E7%AC%AC%E4%BA%8C%E5%A4%A9/"/>
-    <id>http://xiaohuge.icu/post/2023-04-17-%E7%AC%AC%E4%BA%8C%E5%A4%A9/</id>
+    <link href="https://xiaohuge.icu/posts/58547.html"/>
+    <id>https://xiaohuge.icu/posts/58547.html</id>
     <published>2023-04-17T04:30:07.000Z</published>
-    <updated>2023-04-20T08:17:13.778Z</updated>
+    <updated>2023-04-21T02:48:00.485Z</updated>
     
     
     <summary type="html">&lt;pre class=&quot;line-numbers language-none&quot;&gt;&lt;code class=&quot;language-none&quot;&gt;第二天&lt;span aria-hidden=&quot;true&quot; class=&quot;line-numbers-rows&quot;&gt;&lt;span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;</summary>
     
     
     
-    <category term="成立篇" scheme="http://xiaohuge.icu/categories/%E6%88%90%E7%AB%8B%E7%AF%87/"/>
+    <category term="成立篇" scheme="https://xiaohuge.icu/categories/%E6%88%90%E7%AB%8B%E7%AF%87/"/>
     
     
-    <category term="博客" scheme="http://xiaohuge.icu/tags/%E5%8D%9A%E5%AE%A2/"/>
+    <category term="博客" scheme="https://xiaohuge.icu/tags/%E5%8D%9A%E5%AE%A2/"/>
     
-    <category term="幼稚" scheme="http://xiaohuge.icu/tags/%E5%B9%BC%E7%A8%9A/"/>
+    <category term="幼稚" scheme="https://xiaohuge.icu/tags/%E5%B9%BC%E7%A8%9A/"/>
     
-    <category term="Markdown" scheme="http://xiaohuge.icu/tags/Markdown/"/>
+    <category term="Markdown" scheme="https://xiaohuge.icu/tags/Markdown/"/>
     
   </entry>
   
   <entry>
     <title>Next新征途</title>
-    <link href="http://xiaohuge.icu/post/2023-04-16-Next%E6%96%B0%E5%BE%81%E9%80%94/"/>
-    <id>http://xiaohuge.icu/post/2023-04-16-Next%E6%96%B0%E5%BE%81%E9%80%94/</id>
+    <link href="https://xiaohuge.icu/posts/64986.html"/>
+    <id>https://xiaohuge.icu/posts/64986.html</id>
     <published>2023-04-16T04:30:07.000Z</published>
-    <updated>2023-04-20T08:17:13.768Z</updated>
+    <updated>2023-04-21T02:50:03.257Z</updated>
     
     
       
@@ -235,40 +267,40 @@
     
     
     
-    <category term="成立篇" scheme="http://xiaohuge.icu/categories/%E6%88%90%E7%AB%8B%E7%AF%87/"/>
+    <category term="成立篇" scheme="https://xiaohuge.icu/categories/%E6%88%90%E7%AB%8B%E7%AF%87/"/>
     
     
-    <category term="博客" scheme="http://xiaohuge.icu/tags/%E5%8D%9A%E5%AE%A2/"/>
+    <category term="博客" scheme="https://xiaohuge.icu/tags/%E5%8D%9A%E5%AE%A2/"/>
     
-    <category term="幼稚" scheme="http://xiaohuge.icu/tags/%E5%B9%BC%E7%A8%9A/"/>
+    <category term="幼稚" scheme="https://xiaohuge.icu/tags/%E5%B9%BC%E7%A8%9A/"/>
     
   </entry>
   
   <entry>
     <title>建设の第一天</title>
-    <link href="http://xiaohuge.icu/post/2023-04-16-%E7%AC%AC%E4%B8%80%E5%A4%A9/"/>
-    <id>http://xiaohuge.icu/post/2023-04-16-%E7%AC%AC%E4%B8%80%E5%A4%A9/</id>
+    <link href="https://xiaohuge.icu/posts/29897.html"/>
+    <id>https://xiaohuge.icu/posts/29897.html</id>
     <published>2023-04-16T04:30:07.000Z</published>
-    <updated>2023-04-20T08:17:13.774Z</updated>
+    <updated>2023-04-21T02:47:54.588Z</updated>
     
     
     <summary type="html">&lt;pre class=&quot;line-numbers language-none&quot;&gt;&lt;code class=&quot;language-none&quot;&gt;第一天&lt;span aria-hidden=&quot;true&quot; class=&quot;line-numbers-rows&quot;&gt;&lt;span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;</summary>
     
     
     
-    <category term="成立篇" scheme="http://xiaohuge.icu/categories/%E6%88%90%E7%AB%8B%E7%AF%87/"/>
+    <category term="成立篇" scheme="https://xiaohuge.icu/categories/%E6%88%90%E7%AB%8B%E7%AF%87/"/>
     
     
-    <category term="博客" scheme="http://xiaohuge.icu/tags/%E5%8D%9A%E5%AE%A2/"/>
+    <category term="博客" scheme="https://xiaohuge.icu/tags/%E5%8D%9A%E5%AE%A2/"/>
     
-    <category term="幼稚" scheme="http://xiaohuge.icu/tags/%E5%B9%BC%E7%A8%9A/"/>
+    <category term="幼稚" scheme="https://xiaohuge.icu/tags/%E5%B9%BC%E7%A8%9A/"/>
     
   </entry>
   
   <entry>
     <title>Hexo的基础</title>
-    <link href="http://xiaohuge.icu/post/2023-04-12-hello-world/"/>
-    <id>http://xiaohuge.icu/post/2023-04-12-hello-world/</id>
+    <link href="https://xiaohuge.icu/posts/61971.html"/>
+    <id>https://xiaohuge.icu/posts/61971.html</id>
     <published>2023-04-12T14:13:00.875Z</published>
     <updated>2023-04-20T08:17:13.771Z</updated>
     
@@ -283,12 +315,12 @@
     
     
     
-    <category term="成立篇" scheme="http://xiaohuge.icu/categories/%E6%88%90%E7%AB%8B%E7%AF%87/"/>
+    <category term="成立篇" scheme="https://xiaohuge.icu/categories/%E6%88%90%E7%AB%8B%E7%AF%87/"/>
     
     
-    <category term="成立" scheme="http://xiaohuge.icu/tags/%E6%88%90%E7%AB%8B/"/>
+    <category term="成立" scheme="https://xiaohuge.icu/tags/%E6%88%90%E7%AB%8B/"/>
     
-    <category term="基础文件" scheme="http://xiaohuge.icu/tags/%E5%9F%BA%E7%A1%80%E6%96%87%E4%BB%B6/"/>
+    <category term="基础文件" scheme="https://xiaohuge.icu/tags/%E5%9F%BA%E7%A1%80%E6%96%87%E4%BB%B6/"/>
     
   </entry>
   
