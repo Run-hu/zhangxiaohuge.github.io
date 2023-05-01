@@ -128,7 +128,7 @@
 <tr>
 <td>链接(邮箱)</td>
 <td><code>[显示文本](链接网址)</code>&#x2F;<code>&lt;链接网址&gt;</code>&#x2F;<code>name@user.com</code></td>
-<td>这是<a href="http://xiaohuge.icu/">小沪的博客链接</a> <a href="http://xiaohuge.icu/">http://xiaohuge.icu</a>  <br />点击即可发送邮件<a href="mailto:&#x33;&#x33;&#x39;&#x30;&#x34;&#54;&#54;&#56;&#x37;&#x35;&#x40;&#113;&#113;&#46;&#99;&#x6f;&#x6d;">&#x33;&#x33;&#x39;&#x30;&#x34;&#54;&#54;&#56;&#x37;&#x35;&#x40;&#113;&#113;&#46;&#99;&#x6f;&#x6d;</a></td>
+<td>这是<a href="http://xiaohuge.icu/">小沪的博客链接</a> <a href="http://xiaohuge.icu/">http://xiaohuge.icu</a>  <br />点击即可发送邮件<a href="mailto:&#x33;&#x33;&#57;&#x30;&#x34;&#54;&#54;&#x38;&#55;&#x35;&#x40;&#x71;&#113;&#x2e;&#99;&#111;&#109;">&#x33;&#x33;&#57;&#x30;&#x34;&#54;&#54;&#x38;&#55;&#x35;&#x40;&#x71;&#113;&#x2e;&#99;&#111;&#109;</a></td>
 </tr>
 <tr>
 <td>图片</td>
@@ -619,6 +619,55 @@ $ hexo deploy<span aria-hidden="true" class="line-numbers-rows"><span></span><sp
       </tags>
   </entry>
   <entry>
+    <title>建设の第四天</title>
+    <url>/posts/34315.html</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css"><script src="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="https://cdn.jsdelivr.net/npm/meting/dist/Meting.min.js"></script><blockquote>
+<p>建站的第四天也要加油呀！</p>
+</blockquote>
+<span id="more"></span>
+
+<h4 id="今日更新："><a href="#今日更新：" class="headerlink" title="今日更新："></a><em><strong>今日更新：</strong></em></h4><table>
+<thead>
+<tr>
+<th>其他内容</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>小白羊最新版</td>
+</tr>
+<tr>
+<td>Office copilot</td>
+</tr>
+<tr>
+<td>百度网盘软件搬运到阿里</td>
+</tr>
+<tr>
+<td>更新下载分类从类型到下载渠道</td>
+</tr>
+<tr>
+<td>将阿里所有的文件全部转格式成exe</td>
+</tr>
+<tr>
+<td>C盘清理</td>
+</tr>
+<tr>
+<td>Office加载项</td>
+</tr>
+</tbody></table>
+<h4 id="今日失败"><a href="#今日失败" class="headerlink" title="今日失败:"></a><strong><em>今日失败</em>:</strong></h4><p>- </p>
+<h4 id="今日日志"><a href="#今日日志" class="headerlink" title="今日日志:"></a><strong><em>今日日志</em>:</strong></h4><ul>
+<li>博客今天还是没想好怎么继续完善…..郁闷</li>
+</ul>
+]]></content>
+      <categories>
+        <category>成立篇</category>
+      </categories>
+      <tags>
+        <tag>博客</tag>
+        <tag>幼稚</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>建设の第五天</title>
     <url>/posts/8c29703e.html</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css"><script src="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="https://cdn.jsdelivr.net/npm/meting/dist/Meting.min.js"></script><blockquote>
@@ -701,45 +750,48 @@ $ hexo deploy<span aria-hidden="true" class="line-numbers-rows"><span></span><sp
       </tags>
   </entry>
   <entry>
-    <title>建设の第四天</title>
-    <url>/posts/34315.html</url>
+    <title>建设の第七天</title>
+    <url>/posts/3b274c78.html</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css"><script src="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="https://cdn.jsdelivr.net/npm/meting/dist/Meting.min.js"></script><blockquote>
-<p>建站的第四天也要加油呀！</p>
+<p>成为google人的一天</p>
 </blockquote>
 <span id="more"></span>
 
-<h4 id="今日更新："><a href="#今日更新：" class="headerlink" title="今日更新："></a><em><strong>今日更新：</strong></em></h4><table>
-<thead>
-<tr>
-<th>其他内容</th>
-</tr>
-</thead>
-<tbody><tr>
-<td>小白羊最新版</td>
-</tr>
-<tr>
-<td>Office copilot</td>
-</tr>
-<tr>
-<td>百度网盘软件搬运到阿里</td>
-</tr>
-<tr>
-<td>更新下载分类从类型到下载渠道</td>
-</tr>
-<tr>
-<td>将阿里所有的文件全部转格式成exe</td>
-</tr>
-<tr>
-<td>C盘清理</td>
-</tr>
-<tr>
-<td>Office加载项</td>
-</tr>
-</tbody></table>
-<h4 id="今日失败"><a href="#今日失败" class="headerlink" title="今日失败:"></a><strong><em>今日失败</em>:</strong></h4><p>- </p>
-<h4 id="今日日志"><a href="#今日日志" class="headerlink" title="今日日志:"></a><strong><em>今日日志</em>:</strong></h4><ul>
-<li>博客今天还是没想好怎么继续完善…..郁闷</li>
+<div class="pdf-container" data-target="/pdf/1.pdf" data-height="500px"></div>]]></content>
+  </entry>
+  <entry>
+    <title>建设の第一天</title>
+    <url>/posts/29897.html</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css"><script src="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="https://cdn.jsdelivr.net/npm/meting/dist/Meting.min.js"></script><pre class="line-numbers language-none"><code class="language-none">第一天<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre>
+<span id="more"></span>
+
+<p><em><strong>今日更新：</strong></em></p>
+<ol>
+<li>域名解析，绑定Hexo和github</li>
+<li>更新Next主题至最新版本 8.15.1</li>
+<li>设置暗黑模式-可手控</li>
+<li>设计简单favicon</li>
+<li>添加腾讯公益404页面</li>
+<li>更改目录与添加子目录</li>
+<li>验证必应站点地图</li>
+<li>增加社交图标</li>
+<li>增加github横幅</li>
+<li>增加手动书签</li>
+<li>修改侧边栏：徽章、头像</li>
+<li>增加打赏和关注</li>
+<li>修改页脚的图标、时间</li>
+</ol>
+<p><strong><em>今日失败</em>:</strong></p>
+<ul>
+<li>语言转换器</li>
+<li>滚动条</li>
+<li>相关文章</li>
 </ul>
+<p>Markdown的格式明天要抓紧学起来，就会个加粗斜线好丢人。</p>
+<p><strong>记录一下新的阶段的作息：</strong><br>时间					内容					备注<br>5：00-5：10	洗漱煮蛋泡咖啡	提前晚上准备好<br>5：10-5：20	明确任务 ，复盘昨天	空腹黑咖啡<br>5：20-6：00	南北校	拉伸<br>6：00-7：50		<br>7：50-8：20	路上	装水准备<br>8：20-12：00	剪辑学习	<br>12：00-12：30	午休	<br>12:30-13:30	阅读	心理学<br>13:30-17:30	剪辑学习&#x2F;网站搭建	<br>17:30-18:00	跑步	2公里（快）+其他运动<br>18:00-21:30	剪辑学习&#x2F;视频发布	<br>21:30-22：00	日常任务	<br>22:00-22:30	路上+洗漱	<br>22:30-24:00	复盘+其他活动	<br>24:00-1:00	自由安排学习	</p>
+<p><strong>2023年4月16日</strong></p>
+<p>57:32	五公里	轻微拉伸+三人早安	onenote模版<br>6:12:43	李跳跳自动删除信息		<br>6:45:42	打卡众裁日常完成	神游躺了一下	知乎回答问题1<br>7:10:22	网站开始！		<br>8:49:55	博客	馄饨	<br>19:12:32	结束</p>
+<p>​		<br>​			</p>
 ]]></content>
       <categories>
         <category>成立篇</category>
@@ -782,48 +834,6 @@ $ hexo deploy<span aria-hidden="true" class="line-numbers-rows"><span></span><sp
 <td></td>
 </tr>
 </tbody></table>
-]]></content>
-      <categories>
-        <category>成立篇</category>
-      </categories>
-      <tags>
-        <tag>博客</tag>
-        <tag>幼稚</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>建设の第一天</title>
-    <url>/posts/29897.html</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css"><script src="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="https://cdn.jsdelivr.net/npm/meting/dist/Meting.min.js"></script><pre class="line-numbers language-none"><code class="language-none">第一天<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre>
-<span id="more"></span>
-
-<p><em><strong>今日更新：</strong></em></p>
-<ol>
-<li>域名解析，绑定Hexo和github</li>
-<li>更新Next主题至最新版本 8.15.1</li>
-<li>设置暗黑模式-可手控</li>
-<li>设计简单favicon</li>
-<li>添加腾讯公益404页面</li>
-<li>更改目录与添加子目录</li>
-<li>验证必应站点地图</li>
-<li>增加社交图标</li>
-<li>增加github横幅</li>
-<li>增加手动书签</li>
-<li>修改侧边栏：徽章、头像</li>
-<li>增加打赏和关注</li>
-<li>修改页脚的图标、时间</li>
-</ol>
-<p><strong><em>今日失败</em>:</strong></p>
-<ul>
-<li>语言转换器</li>
-<li>滚动条</li>
-<li>相关文章</li>
-</ul>
-<p>Markdown的格式明天要抓紧学起来，就会个加粗斜线好丢人。</p>
-<p><strong>记录一下新的阶段的作息：</strong><br>时间					内容					备注<br>5：00-5：10	洗漱煮蛋泡咖啡	提前晚上准备好<br>5：10-5：20	明确任务 ，复盘昨天	空腹黑咖啡<br>5：20-6：00	南北校	拉伸<br>6：00-7：50		<br>7：50-8：20	路上	装水准备<br>8：20-12：00	剪辑学习	<br>12：00-12：30	午休	<br>12:30-13:30	阅读	心理学<br>13:30-17:30	剪辑学习&#x2F;网站搭建	<br>17:30-18:00	跑步	2公里（快）+其他运动<br>18:00-21:30	剪辑学习&#x2F;视频发布	<br>21:30-22：00	日常任务	<br>22:00-22:30	路上+洗漱	<br>22:30-24:00	复盘+其他活动	<br>24:00-1:00	自由安排学习	</p>
-<p><strong>2023年4月16日</strong></p>
-<p>57:32	五公里	轻微拉伸+三人早安	onenote模版<br>6:12:43	李跳跳自动删除信息		<br>6:45:42	打卡众裁日常完成	神游躺了一下	知乎回答问题1<br>7:10:22	网站开始！		<br>8:49:55	博客	馄饨	<br>19:12:32	结束</p>
-<p>​		<br>​			</p>
 ]]></content>
       <categories>
         <category>成立篇</category>
@@ -1071,15 +1081,5 @@ Any content (support inline tags too).
     <title>音乐文档</title>
     <url>/posts/20138.html</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css"><script src="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="https://cdn.jsdelivr.net/npm/meting/dist/Meting.min.js"></script>]]></content>
-  </entry>
-  <entry>
-    <title>建设の第七天</title>
-    <url>/posts/3b274c78.html</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css"><script src="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="https://cdn.jsdelivr.net/npm/meting/dist/Meting.min.js"></script><blockquote>
-<p>成为google人的一天</p>
-</blockquote>
-<span id="more"></span>
-
-<div class="pdf-container" data-target="/pdf/1.pdf" data-height="500px"></div>]]></content>
   </entry>
 </search>
