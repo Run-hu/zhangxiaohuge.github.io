@@ -26,14 +26,14 @@ https://xiaohuge.icu/404/index.html
 https://xiaohuge.icu/link/index.html
 https://xiaohuge.icu/archives/index.html
 https://xiaohuge.icu/
-https://xiaohuge.icu/tags/%E5%8D%9A%E5%AE%A2/
-https://xiaohuge.icu/tags/%E5%B9%BC%E7%A8%9A/
 https://xiaohuge.icu/tags/Markdown/
 https://xiaohuge.icu/tags/%E6%88%90%E7%AB%8B/
 https://xiaohuge.icu/tags/Typora/
+https://xiaohuge.icu/tags/%E5%8D%9A%E5%AE%A2/
+https://xiaohuge.icu/tags/%E5%B9%BC%E7%A8%9A/
 https://xiaohuge.icu/tags/%E5%9F%BA%E7%A1%80%E6%96%87%E4%BB%B6/
 https://xiaohuge.icu/tags/%E5%85%AC%E4%BC%97%E5%8F%B7/
 https://xiaohuge.icu/categories/diary/
-https://xiaohuge.icu/categories/%E6%88%90%E7%AB%8B%E7%AF%87/
 https://xiaohuge.icu/categories/%E6%93%8D%E4%BD%9C%E7%AF%87/
+https://xiaohuge.icu/categories/%E6%88%90%E7%AB%8B%E7%AF%87/
 https://xiaohuge.icu/categories/%E5%BE%AE%E4%BF%A1%E7%BC%96/
