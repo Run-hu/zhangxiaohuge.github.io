@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>4-20</title>
+    <url>/posts/19851.html</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css"><script src="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="https://cdn.jsdelivr.net/npm/meting/dist/Meting.min.js"></script><p>测试日记</p>
+<span id="more"></span>
+]]></content>
+      <categories>
+        <category>diary</category>
+      </categories>
+  </entry>
+  <entry>
     <title>Hexo插件录</title>
     <url>/posts/2b9a2fb7.html</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css"><script src="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="https://cdn.jsdelivr.net/npm/meting/dist/Meting.min.js"></script><p>整理一下目前本博客所用到的所有插件</p>
@@ -10,6 +20,20 @@
 <li><a href="https://github.com/tea3/hexo-related-popular-posts">hexo-related-popular-posts</a></li>
 </ul>
 ]]></content>
+  </entry>
+  <entry>
+    <title>Next新征途</title>
+    <url>/posts/64986.html</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css"><script src="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="https://cdn.jsdelivr.net/npm/meting/dist/Meting.min.js"></script><pre class="line-numbers language-none"><code class="language-none">再次出发！<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre>
+<p><img data-src="https://s2.loli.net/2023/04/16/WJenoGHjwb4XutC.jpg" alt="08.jpg"></p>
+]]></content>
+      <categories>
+        <category>成立篇</category>
+      </categories>
+      <tags>
+        <tag>博客</tag>
+        <tag>幼稚</tag>
+      </tags>
   </entry>
   <entry>
     <title>Markdown学习</title>
@@ -118,7 +142,7 @@
 <tr>
 <td>链接(邮箱)</td>
 <td><code>[显示文本](链接网址)</code>&#x2F;<code>&lt;链接网址&gt;</code>&#x2F;<code>name@user.com</code></td>
-<td>这是<a href="http://xiaohuge.icu/">小沪的博客链接</a> <a href="http://xiaohuge.icu/">http://xiaohuge.icu</a>  <br />点击即可发送邮件<a href="mailto:&#x33;&#x33;&#x39;&#x30;&#x34;&#x36;&#x36;&#x38;&#55;&#x35;&#x40;&#x71;&#x71;&#46;&#99;&#x6f;&#109;">&#x33;&#x33;&#x39;&#x30;&#x34;&#x36;&#x36;&#x38;&#55;&#x35;&#x40;&#x71;&#x71;&#46;&#99;&#x6f;&#109;</a></td>
+<td>这是<a href="http://xiaohuge.icu/">小沪的博客链接</a> <a href="http://xiaohuge.icu/">http://xiaohuge.icu</a>  <br />点击即可发送邮件<a href="mailto:&#51;&#51;&#57;&#x30;&#x34;&#54;&#x36;&#56;&#55;&#x35;&#x40;&#x71;&#x71;&#46;&#x63;&#111;&#x6d;">&#51;&#51;&#57;&#x30;&#x34;&#54;&#x36;&#56;&#55;&#x35;&#x40;&#x71;&#x71;&#46;&#x63;&#111;&#x6d;</a></td>
 </tr>
 <tr>
 <td>图片</td>
@@ -231,30 +255,6 @@
       </tags>
   </entry>
   <entry>
-    <title>4-20</title>
-    <url>/posts/19851.html</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css"><script src="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="https://cdn.jsdelivr.net/npm/meting/dist/Meting.min.js"></script><p>测试日记</p>
-<span id="more"></span>
-]]></content>
-      <categories>
-        <category>diary</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>Next新征途</title>
-    <url>/posts/64986.html</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css"><script src="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="https://cdn.jsdelivr.net/npm/meting/dist/Meting.min.js"></script><pre class="line-numbers language-none"><code class="language-none">再次出发！<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre>
-<p><img data-src="https://s2.loli.net/2023/04/16/WJenoGHjwb4XutC.jpg" alt="08.jpg"></p>
-]]></content>
-      <categories>
-        <category>成立篇</category>
-      </categories>
-      <tags>
-        <tag>博客</tag>
-        <tag>幼稚</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Typora学习</title>
     <url>/posts/2562.html</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css"><script src="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="https://cdn.jsdelivr.net/npm/meting/dist/Meting.min.js"></script><pre class="line-numbers language-none"><code class="language-none">此文用以学习Typora的基础操作<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre>
@@ -283,88 +283,6 @@ $ hexo deploy<span aria-hidden="true" class="line-numbers-rows"><span></span><sp
       <tags>
         <tag>成立</tag>
         <tag>基础文件</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>建设の第五天</title>
-    <url>/posts/8c29703e.html</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css"><script src="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="https://cdn.jsdelivr.net/npm/meting/dist/Meting.min.js"></script><blockquote>
-<p>建站的第四天也要加油呀！</p>
-</blockquote>
-<span id="more"></span>
-
-<h4 id="今日更新："><a href="#今日更新：" class="headerlink" title="今日更新："></a><em><strong>今日更新：</strong></em></h4><table>
-<thead>
-<tr>
-<th>2023年4月20日</th>
-<th></th>
-<th></th>
-</tr>
-</thead>
-<tbody><tr>
-<td>1.相关文章-调试成功&gt;失败</td>
-<td>1. 指令： hexo clean &amp;&amp; hexo g –prod<br />2.<code>hexo-related-posts</code>有缓存功能，测试是否启用时需要修改任意一篇文章，或<code>hexo clean</code>后再测试。<br />3.由于本地调试直接使用<code>hexo s</code>，所以相关文章默认会被禁用。</td>
-<td><img data-src="D:\huge\themes\next\source\images\related.png" alt="示例"></td>
-</tr>
-<tr>
-<td>2.添加live2d模型仓库</td>
-<td>live2d-widget-model-chitose<br/>live2d-widget-model-epsilon2_1<br/>live2d-widget-model-gf<br/>live2d-widget-model-haruto<br/>live2d-widget-model-hibiki<br/>live2d-widget-model-hijiki<br/>live2d-widget-model-izumi<br/>live2d-widget-model-koharu<br/>live2d-widget-model-miku<br/>live2d-widget-model-ni-j<br/>live2d-widget-model-nico<br/>live2d-widget-model-nietzsche<br/>live2d-widget-model-nipsilon<br/>live2d-widget-model-nito<br/>live2d-widget-model-shizuku<br/>live2d-widget-model-tororo<br/>live2d-widget-model-tsumiki<br/>live2d-widget-model-unitychan<br/>live2d-widget-model-wanko<br/>live2d-widget-model-z16<br/></td>
-<td>npm install live2d-widget-model-模型名称</td>
-</tr>
-<tr>
-<td>3.新增密码文档</td>
-<td>password: hello</td>
-<td></td>
-</tr>
-<tr>
-<td>4.分类子菜单</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>5.添加音乐播放器</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>6.挑战Wordpress！</td>
-<td>惨烈失败</td>
-<td>价格和服务器等等……</td>
-</tr>
-<tr>
-<td>7.留言板功能</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>8.修改社交板块</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>9.鼠标点击特效</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>10.背景更换、页脚文字颜色</td>
-<td></td>
-<td></td>
-</tr>
-</tbody></table>
-<h4 id="今日Bug"><a href="#今日Bug" class="headerlink" title="今日Bug:"></a><strong>今日Bug:</strong></h4><ul>
-<li>markdown无法正确显示图片连接，只能本地插入</li>
-</ul>
-<h4 id="今日日志"><a href="#今日日志" class="headerlink" title="今日日志:"></a><strong><em>今日日志</em>:</strong></h4><ul>
-<li>加油！从模仿一步步走出去！</li>
-</ul>
-]]></content>
-      <categories>
-        <category>成立篇</category>
-      </categories>
-      <tags>
-        <tag>博客</tag>
-        <tag>幼稚</tag>
       </tags>
   </entry>
   <entry>
@@ -701,6 +619,88 @@ $ hexo deploy<span aria-hidden="true" class="line-numbers-rows"><span></span><sp
       </tags>
   </entry>
   <entry>
+    <title>建设の第五天</title>
+    <url>/posts/8c29703e.html</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css"><script src="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="https://cdn.jsdelivr.net/npm/meting/dist/Meting.min.js"></script><blockquote>
+<p>建站的第四天也要加油呀！</p>
+</blockquote>
+<span id="more"></span>
+
+<h4 id="今日更新："><a href="#今日更新：" class="headerlink" title="今日更新："></a><em><strong>今日更新：</strong></em></h4><table>
+<thead>
+<tr>
+<th>2023年4月20日</th>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody><tr>
+<td>1.相关文章-调试成功&gt;失败</td>
+<td>1. 指令： hexo clean &amp;&amp; hexo g –prod<br />2.<code>hexo-related-posts</code>有缓存功能，测试是否启用时需要修改任意一篇文章，或<code>hexo clean</code>后再测试。<br />3.由于本地调试直接使用<code>hexo s</code>，所以相关文章默认会被禁用。</td>
+<td><img data-src="D:\huge\themes\next\source\images\related.png" alt="示例"></td>
+</tr>
+<tr>
+<td>2.添加live2d模型仓库</td>
+<td>live2d-widget-model-chitose<br/>live2d-widget-model-epsilon2_1<br/>live2d-widget-model-gf<br/>live2d-widget-model-haruto<br/>live2d-widget-model-hibiki<br/>live2d-widget-model-hijiki<br/>live2d-widget-model-izumi<br/>live2d-widget-model-koharu<br/>live2d-widget-model-miku<br/>live2d-widget-model-ni-j<br/>live2d-widget-model-nico<br/>live2d-widget-model-nietzsche<br/>live2d-widget-model-nipsilon<br/>live2d-widget-model-nito<br/>live2d-widget-model-shizuku<br/>live2d-widget-model-tororo<br/>live2d-widget-model-tsumiki<br/>live2d-widget-model-unitychan<br/>live2d-widget-model-wanko<br/>live2d-widget-model-z16<br/></td>
+<td>npm install live2d-widget-model-模型名称</td>
+</tr>
+<tr>
+<td>3.新增密码文档</td>
+<td>password: hello</td>
+<td></td>
+</tr>
+<tr>
+<td>4.分类子菜单</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>5.添加音乐播放器</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>6.挑战Wordpress！</td>
+<td>惨烈失败</td>
+<td>价格和服务器等等……</td>
+</tr>
+<tr>
+<td>7.留言板功能</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>8.修改社交板块</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>9.鼠标点击特效</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>10.背景更换、页脚文字颜色</td>
+<td></td>
+<td></td>
+</tr>
+</tbody></table>
+<h4 id="今日Bug"><a href="#今日Bug" class="headerlink" title="今日Bug:"></a><strong>今日Bug:</strong></h4><ul>
+<li>markdown无法正确显示图片连接，只能本地插入</li>
+</ul>
+<h4 id="今日日志"><a href="#今日日志" class="headerlink" title="今日日志:"></a><strong><em>今日日志</em>:</strong></h4><ul>
+<li>加油！从模仿一步步走出去！</li>
+</ul>
+]]></content>
+      <categories>
+        <category>成立篇</category>
+      </categories>
+      <tags>
+        <tag>博客</tag>
+        <tag>幼稚</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>建设の第四天</title>
     <url>/posts/34315.html</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css"><script src="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="https://cdn.jsdelivr.net/npm/meting/dist/Meting.min.js"></script><blockquote>
@@ -802,34 +802,6 @@ $ hexo deploy<span aria-hidden="true" class="line-numbers-rows"><span></span><sp
       </tags>
   </entry>
   <entry>
-    <title>建设の第三天</title>
-    <url>/posts/59594.html</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css"><script src="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="https://cdn.jsdelivr.net/npm/meting/dist/Meting.min.js"></script><pre class="line-numbers language-none"><code class="language-none">第三天<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre>
-<span id="more"></span>
-
-<h4 id="今日更新："><a href="#今日更新：" class="headerlink" title="今日更新："></a><em><strong>今日更新：</strong></em></h4><ol>
-<li>Markdown系统学习</li>
-<li>Typora主题更新</li>
-<li>B站签署版权授权书</li>
-<li>B站开启创作激励计划</li>
-<li>知乎B站发布更新文章</li>
-</ol>
-<h4 id="今日失败"><a href="#今日失败" class="headerlink" title="今日失败:"></a><strong><em>今日失败</em>:</strong></h4><p>- </p>
-<h4 id="今日日志"><a href="#今日日志" class="headerlink" title="今日日志:"></a><strong><em>今日日志</em>:</strong></h4><ul>
-<li>五点的闹钟我醒了，淅淅沥沥的小雨却将我催眠</li>
-<li>很多事需要不断遗忘才可以潜行</li>
-</ul>
-<p>​    </p>
-]]></content>
-      <categories>
-        <category>成立篇</category>
-      </categories>
-      <tags>
-        <tag>博客</tag>
-        <tag>幼稚</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>建设の第一天</title>
     <url>/posts/29897.html</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css"><script src="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="https://cdn.jsdelivr.net/npm/meting/dist/Meting.min.js"></script><pre class="line-numbers language-none"><code class="language-none">第一天<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre>
@@ -862,6 +834,34 @@ $ hexo deploy<span aria-hidden="true" class="line-numbers-rows"><span></span><sp
 <p><strong>2023年4月16日</strong></p>
 <p>57:32	五公里	轻微拉伸+三人早安	onenote模版<br>6:12:43	李跳跳自动删除信息		<br>6:45:42	打卡众裁日常完成	神游躺了一下	知乎回答问题1<br>7:10:22	网站开始！		<br>8:49:55	博客	馄饨	<br>19:12:32	结束</p>
 <p>​		<br>​			</p>
+]]></content>
+      <categories>
+        <category>成立篇</category>
+      </categories>
+      <tags>
+        <tag>博客</tag>
+        <tag>幼稚</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>建设の第三天</title>
+    <url>/posts/59594.html</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css"><script src="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="https://cdn.jsdelivr.net/npm/meting/dist/Meting.min.js"></script><pre class="line-numbers language-none"><code class="language-none">第三天<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre>
+<span id="more"></span>
+
+<h4 id="今日更新："><a href="#今日更新：" class="headerlink" title="今日更新："></a><em><strong>今日更新：</strong></em></h4><ol>
+<li>Markdown系统学习</li>
+<li>Typora主题更新</li>
+<li>B站签署版权授权书</li>
+<li>B站开启创作激励计划</li>
+<li>知乎B站发布更新文章</li>
+</ol>
+<h4 id="今日失败"><a href="#今日失败" class="headerlink" title="今日失败:"></a><strong><em>今日失败</em>:</strong></h4><p>- </p>
+<h4 id="今日日志"><a href="#今日日志" class="headerlink" title="今日日志:"></a><strong><em>今日日志</em>:</strong></h4><ul>
+<li>五点的闹钟我醒了，淅淅沥沥的小雨却将我催眠</li>
+<li>很多事需要不断遗忘才可以潜行</li>
+</ul>
+<p>​    </p>
 ]]></content>
       <categories>
         <category>成立篇</category>
@@ -1072,9 +1072,9 @@ Any content (support inline tags too).
         <category>成立篇</category>
       </categories>
       <tags>
-        <tag>Markdown</tag>
         <tag>博客</tag>
         <tag>幼稚</tag>
+        <tag>Markdown</tag>
       </tags>
   </entry>
   <entry>
